@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+
+
+
+<html
+ lang="sv"
+ >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#eeeeee>
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Bulma Clean Theme | Your awesome title</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Bulma Clean Theme" />
+<meta property="og:locale" content="sv" />
+<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Your awesome title" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Bulma Clean Theme" />
+<script type="application/ld+json">
+{"headline":"Bulma Clean Theme","url":"http://localhost:4000/","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","name":"Your awesome title","@type":"WebSite","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<!-- head scripts --></head>
+
+  <body>
+    <nav class="navbar is-primary " x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                Your awesome title
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/" class="navbar-item is-active">Home</a>
+                
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/" class="navbar-link ">Pages</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/page-1/" class="navbar-item ">Page With Sidebar</a>
+                            
+                            <a href="/page-2/" class="navbar-item ">Page No Sidebar</a>
+                            
+                            <a href="/page-3/" class="navbar-item ">Page With Menubar</a>
+                            
+                            <a href="/page-4/" class="navbar-item ">Page With Tabs</a>
+                            
+                            <a href="/page-5/" class="navbar-item ">Page Without Footer</a>
+                            
+                            <a href="/page-without-hero/" class="navbar-item ">Page Without Hero</a>
+                            
+                            <a href="/page-with-contents/" class="navbar-item ">Page With Contents</a>
+                            
+                            <a href="/page-with-video/" class="navbar-item ">Page With Video</a>
+                            
+                            <a href="/page-with-image-modal/" class="navbar-item ">Page With Image Modal</a>
+                            
+                            <a href="/page-with-notification/" class="navbar-item ">Page With Notifications</a>
+                            
+                            <a href="/landing/" class="navbar-item ">Landing Page With Callouts</a>
+                            
+                            <a href="/sponsors/" class="navbar-item ">Sponsors Page</a>
+                            
+                            <a href="/gallery/" class="navbar-item ">Image Gallery</a>
+                            
+                            <a href="/example-recipe/" class="navbar-item ">Recipe Page</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                    
+                    <a href="/products/" class="navbar-item ">Products</a>
+                    
+                
+                    
+                    <a href="/showcase/" class="navbar-item ">Showcase</a>
+                    
+                
+                    
+                    <a href="/blog/" class="navbar-item ">Blog</a>
+                    
+                
+                
+            </div>
+
+            <div class="navbar-end">
+                
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+    
+        <section class="hero  is-medium  is-bold is-primary" >
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">Bulma Clean Theme</h1>
+            <p class="subtitle is-3">This is the demo site for Bulma Clean Theme</p>
+            
+        </div>
+    </div>
+</section>
+    
+    
+    
+    <section class="hero  is-medium  is-light">
+        <div class="hero-body">
+            <div class="container">
+                <div class="columns is-multiline is-centered">
+                    
+                        <div class="column is-4 has-text-centered">
+                            
+                            <div class="icon callout-icon">
+                            
+                                <i class="fas fa-copy fa-4x"></i>
+                            
+                            </div>
+                            
+                            <p class="title is-5">Multiple page layouts</p>
+                            <p class="subtitle is-5">Including sidebar, menubar, tabs and callouts</p>
+                            
+                            
+
+                            
+                        </div>
+                    
+                        <div class="column is-4 has-text-centered">
+                            
+                            <div class="icon callout-icon">
+                            
+                                <i class="fas fa-mail-bulk fa-4x"></i>
+                            
+                            </div>
+                            
+                            <p class="title is-5">Blog included</p>
+                            <p class="subtitle is-5">Layouts for blog and post pages included</p>
+                            
+                            
+
+                            
+                        </div>
+                    
+                        <div class="column is-4 has-text-centered">
+                            
+                            <div class="icon callout-icon">
+                            
+                                <i class="fab fa-github fa-4x"></i>
+                            
+                            </div>
+                            
+                            <p class="title is-5">Works with GitHub Pages</p>
+                            <p class="subtitle is-5">Quick and easy to get started</p>
+                            
+                            
+
+                            
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="section">
+        <div class="container">
+            <div class="columns">
+                
+                <div class="column is-8">
+                    
+                    
+                    
+                    
+                    
+<div class="content">
+    <h1 id="bulma-clean-theme-demo-website">Bulma Clean Theme demo website</h1>
+
+<p>This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.</p>
+
+<p><a href="https://badge.fury.io/rb/bulma-clean-theme"><img src="https://badge.fury.io/rb/bulma-clean-theme.svg" alt="Gem Version" /></a>
+<img src="https://img.shields.io/gem/dt/bulma-clean-theme.svg" alt="Gem" /></p>
+
+<h2 id="ruby-gem">Ruby Gem</h2>
+
+<p>The ruby gem is available on the Ruby Gems website at the following location. <a href="https://rubygems.org/gems/bulma-clean-theme">https://rubygems.org/gems/bulma-clean-theme</a>.</p>
+
+<h2 id="github-pages">GitHub Pages</h2>
+
+<p>The theme can be used with GitHub Pages by setting the <code class="language-plaintext highlighter-rouge">remote_theme</code> in your Jekyll sites <code class="language-plaintext highlighter-rouge">_config.yml</code></p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">chrisrhymes/bulma-clean-theme</span>
+</code></pre></div></div>
+
+<h2 id="instructions">Instructions</h2>
+
+<p>For full instructions, please see the Readme at the GitHub repo:
+<a href="https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md">https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md</a></p>
+
+<h2 id="page-layouts">Page Layouts</h2>
+
+<p>This demo site showcases the available page layout options.</p>
+
+<ul>
+  <li>Page With Sidebar</li>
+  <li>Page Without Sidebar</li>
+  <li>Page With Menubar</li>
+  <li>Page With Tabs</li>
+  <li>Page Without Footer</li>
+  <li>Page Without Hero</li>
+  <li>Page With Contents</li>
+  <li>Landing Page With Callouts</li>
+  <li>Sponsors Page</li>
+  <li>Image Gallery</li>
+  <li>Recipe Page</li>
+  <li>Blog</li>
+  <li>Post</li>
+</ul>
+
+<h2 id="supported-by-jetbrains">Supported By JetBrains</h2>
+
+<p>JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.</p>
+
+<p><a href="https://www.jetbrains.com/?from=bulma-clean-theme"><img src="img/jetbrains-variant-4.svg" alt="JetBrains" /></a></p>
+
+</div>
+                </div>
+                
+                <div class="column is-4-desktop is-12-tablet">
+                    <p class="title is-4">Latest Posts</p>
+
+<div class="columns is-multiline">
+    
+    <div class="column is-12">
+        <div class="card">
+    
+    <div class="card-image">
+        <img src="https://via.placeholder.com/1200x800" alt="Welcome to Jekyll!">
+    </div>
+    
+    <div class="card-content">
+        <div class="content">
+            
+            <a class="title is-4" href="/jekyll/update/2021/04/25/welcome-to-jekyll.html">Welcome to Jekyll!</a>
+            
+            
+                <p><p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+</p>
+            
+        </div>
+        <div class="has-text-centered">
+            <a href="/jekyll/update/2021/04/25/welcome-to-jekyll.html" class="button is-primary">Read more</a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: Apr 25, 2021</p>
+    </footer>
+</div>
+    </div>
+    
+</div>
+
+
+
+
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+        <footer class="footer">
+    <div class="container">
+        
+        
+        <div class="columns is-multiline">
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/" class="link">Home</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/blog/" class="link">Blog</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/products/" class="link">Products</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/privacy-policy/" class="link">Privacy Policy</a>
+                </div>
+            </div>
+            
+        </div>
+        
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
+
+    
+    <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
+</html>
