@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://beerdeerab.github.io/sitemap.xml
