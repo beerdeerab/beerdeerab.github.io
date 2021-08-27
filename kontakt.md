@@ -5,7 +5,4 @@ layout: page
 show_sidebar: false
 ---
 
-# BeerDeer AB
-
-Vi importerar de bästa ölen från hela världen
-
+Skriv till oss på kontact@beerdeer.se.
