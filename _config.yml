@@ -13,7 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 permalink: pretty
-theme_color: '#eeefff'
+theme_color: '#4F958D'
 
 # Build settings
 # theme: minima
