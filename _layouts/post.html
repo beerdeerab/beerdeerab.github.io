@@ -2,23 +2,7 @@
 layout: default
 ---
 
-<div class="content">
-
-    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
-
-    {{ content }}
-</div>
-
-<div class="tags">
-    {% for tag in page.tags %}
-      {% include tag.html tag=tag %}
-    {% endfor %}
-</div>
-
-{% unless site.hide_share_buttons %}
-{% include share-buttons.html %}
-{% endunless %}
-
-{% if site.disqus.shortname %}
-  {% include disqus.html %}
-{% endif %}
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<h1 class="post-title">{{ page.title }}</h1>
+{% include date_and_social_share.html %}
+{{ content }}

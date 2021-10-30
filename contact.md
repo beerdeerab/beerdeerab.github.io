@@ -7,4 +7,4 @@ layout: default
   <h1>{{ site.title }}</h1>
 </header>
 
-{% include post_list.html %}
+Skriv till oss på contact@beerdeer.se.

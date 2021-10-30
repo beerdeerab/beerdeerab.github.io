@@ -1,11 +1,3 @@
 ---
-title: BeerDeer AB
-subtitle: Import av öl för finsmakare
-layout: page
-show_sidebar: false
+layout: home
 ---
-
-# BeerDeer AB
-
-Vi importerar de bästa ölen från hela världen
-
