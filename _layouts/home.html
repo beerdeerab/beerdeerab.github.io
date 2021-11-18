@@ -9,9 +9,7 @@ layout: default
 {% endif %}
 
   <h1>{{ site.title }}</h1>
-  {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-  {% endif %}
+  
 </header>
 
 {{ content }}
@@ -38,6 +36,7 @@ layout: default
 
 
 {% if site.theme_config.show_footer == true %}
+  &nbsp
   <footer>
     <div class="dashed"></div>
     {% include horizontal_list.html collection=site.data.home.footer_entries %}

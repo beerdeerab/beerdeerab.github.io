@@ -7,8 +7,8 @@ navbar_entries:
 
 #  - title: website
 #    url: https://www.abhinav.co
-  - title: kontakt
-    url: contact
+  - title: bryggerier
+    url: breweries
 
 project_entries:
   - title: Project 1
@@ -67,6 +67,12 @@ footer_entries:
 
 #  - title: feed
 #    url: feed.xml
+
+   - title: kontakt
+     url: mailto:contact@beerdeer.se
+
+   - title: instagram
+     url: https://www.instagram.com/beerdeer.se/
 
 misc_entries:
   - title: this is an example vertical list
