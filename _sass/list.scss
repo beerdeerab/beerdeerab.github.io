@@ -55,3 +55,40 @@ ul.horizontal-list {
     }
   }
 }
+
+
+div.logo-list {
+  width: 100%;
+  float: left;
+  padding-top: 1em;
+
+ ul {
+  float: left;
+  width: 100%;
+  list-style-type: none;
+  /* padding: 40px; */
+  margin: 0;
+  box-sizing: border-box;
+  padding-left:0px;
+}
+
+li {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+img {
+  width: 10em;
+  margin-right: 20px;
+  /* border-radius: 50px; */
+}
+
+p {
+  flex: 1;
+  margin: 0;
+  margin-left: 1em;
+}
+
+}
