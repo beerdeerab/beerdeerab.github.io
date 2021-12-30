@@ -9,8 +9,12 @@ logos:
     url: https://alesmith.com/ 
     path: /images/breweries/alesmith_brewing/alesmith_brewing_logo.png
 
+  - title: Brauhaus Bevog
+    text: är ett prisbelönt bryggeri med slovenska rötter, baserat spastaden Bad Rakersburg, i Österrike. Grundat 2013. Känt och hyllat för egensinnighet och hög kvalitet.
+    url: https://bevog.com/
+    path: /images/breweries/bevog_brauhaus/bevog_brauhaus_logo.jpg
+
   - title: Drake's Brewing Co.
-    text: är ett amerikanskt hantverksbrygger, baserat i San Leandro, Kalifornien. Grundat 1989 (under annat namn), och har bryggt många prisbelönade öl sedan dess.
+    text: är ett amerikanskt hantverksbrygger, baserat i San Leandro, Kalifornien. Grundades 1989 (under annat namn), och har bryggt många prisbelönade öl sedan dess.
     url: https://drinkdrakes.com/
     path: /images/breweries/drakes_brewing/drakes_brewing_logo.png
-
