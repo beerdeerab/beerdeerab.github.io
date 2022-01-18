@@ -69,27 +69,29 @@ div.logo-list {
   /* padding: 40px; */
   margin: 0;
   box-sizing: border-box;
-  padding-left:0px;  
+  padding-left:0px;
 }
 
 li {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-  margin-bottom: 2em;
+  padding-top: 1.5em;
 }
 
 img {
   width: 15em;
   margin-bottom: 2em;
-  /* margin-top: 1em; */
   /* border-radius: 50px; */
 }
 
 p {
   flex: 1;
-  margin: 0;
   margin-left: 1em;
+}
+mark {
+  padding:0px;
+  margin:0px;
 }
 
 }
