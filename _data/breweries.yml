@@ -1,0 +1,25 @@
+project_entries:
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/breweries.yml
+
+logos:
+  - title: Alesmith Brewing Co.
+    text: är ett amerikanskt hantverksbryggeri, baserat i San Diego, Kalifornien. Grundat 1995. De innehar en topplacering på flertalet listor över världens bästa bryggerier, sedan många år tillbaka.
+    url: https://alesmith.com/ 
+    path: /images/breweries/alesmith_brewing/alesmith_brewing_logo.png
+
+  - title: Brauhaus Bevog
+    text: är ett prisbelönt bryggeri med slovenska rötter, baserat i spastaden Bad Rakersburg, i Österrike. Grundat 2013. Känt och hyllat för egensinnighet och hög kvalitet.
+    url: https://bevog.com/
+    path: /images/breweries/bevog_brauhaus/bevog_brauhaus_logo.jpg
+
+  - title: Drake's Brewing Co.
+    text: är ett amerikanskt hantverksbrygger, baserat i San Leandro, Kalifornien. Det grundades 1989 (under annat namn) och har bryggt många prisbelönade öl sedan dess.
+    url: https://drinkdrakes.com/
+    path: /images/breweries/drakes_brewing/drakes_brewing_logo.png
+
+  - title: Laugar Brewery
+    text: är ett spanskt mikrobryggeri, lokaliserat i Gordexola, i Baskien. Det föddes 2010, som en motreaktion mot industrialiserad öl, och har etablerat sig som ett av Spaniens bästa bryggerier sedan dess, inte minst tack vare sina imperial stouts.
+    url: https://www.laugarbrewery.com/
+    path: /images/breweries/laugar_brewery/laugar_brewery_logo.png
