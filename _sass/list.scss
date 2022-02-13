@@ -80,7 +80,10 @@ li {
 }
 
 img {
-  width: 15em;
+  max-width: 15em;
+  max-height: 15em;
+  height: auto;
+  width: auto;
   margin-bottom: 2em;
   /* border-radius: 50px; */
 }
