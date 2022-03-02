@@ -10,6 +10,10 @@ navbar_entries:
   - title: bryggerier
     url: breweries
 
+  - title: utbud
+    url: "/docs/BeerDeer_20220302.pdf"
+    new_tab: yes
+
 project_entries:
   - title: Project 1
     url: overview-post

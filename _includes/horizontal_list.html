@@ -1,7 +1,8 @@
 <ul class="horizontal-list">
   {% for item in include.collection %}
     <li>
-      <a href="{{ item.url }}">
+      <a href="{{ item.url }}" 
+      {% if.item.new_tab %} target="_blank" {% endif %}>
         {{ item.title }}
       </a>
       &nbsp;&nbsp;
