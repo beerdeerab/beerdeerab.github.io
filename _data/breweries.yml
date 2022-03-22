@@ -1,8 +1,3 @@
-project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/breweries.yml
-
 logos:
   - title: Alesmith Brewing Co.
     text: är ett amerikanskt hantverksbryggeri, baserat i San Diego, Kalifornien. Grundat 1995. De innehar en topplacering på flertalet listor över världens bästa bryggerier, sedan många år tillbaka.

@@ -6,4 +6,11 @@ layout: home
 ![stout in the woods](/images/pexels-eva-elijas-5659716-cr.jpg)
 {% endcomment %}
 
-![women drinking beer](/images/pexels-elevate-1269032.jpg)
+
+
+
+<div>
+    <p>
+      Vi på BeerDeer brinner för kvalitet. <b>Det ska vara gott med öl. </b>Amerikanska hantverksipor, traditionella tyska stilar, experimentell suröl... Vi på BeerDeer gillar allt som är gediget, utprägat och genomtänkt.</p>
+  </div>
+

@@ -13,12 +13,11 @@ layout: default
   
 {% endif %}
 <div class="dashed"></div>
-
-  <h3 style="text-align: center;">Vi förser Sverige med världens allra bästa bryggerier.</h3>
-
 </header>
 
 {{ content }}
+
+ {% include news_list.html collection=site.data.home.news %}
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
