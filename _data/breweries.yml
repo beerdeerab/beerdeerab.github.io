@@ -25,7 +25,7 @@ logos:
     path: /images/breweries/drakes_brewing/drakes_brewing_logo.png
 
   - title: Hoppin' Frog Brewery
-    text: bör vara ett välkänt namn för alla med ölintresse. Tack vare kompromisslös fokus på detaljer och ingredienser har de behållit sin position som ett av världens bästa bryggerier sedan starten 2006, i Akron, Ohio. Deras öl förblir lika suveräna som de alltid har varit.
+    text: bör vara ett välkänt namn för alla med ölintresse. Tack vare kompromisslös fokus på detaljer och ingredienser har de behållit sin position som ett av världens bästa bryggerier sedan starten 2006 i Akron, Ohio. Deras öl förblir lika suveräna som de alltid har varit.
     url: http://www.hoppinfrog.com/
     path: /images/breweries/hoppin_frog_brewery/hoppin_frog_brewery_logo.png
 
@@ -33,3 +33,8 @@ logos:
     text: är ett spanskt mikrobryggeri, lokaliserat i Gordexola, i Baskien. Det föddes 2010, som en motreaktion mot industrialiserad öl, och har etablerat sig som ett av Spaniens bästa bryggerier sedan dess, inte minst tack vare sina imperial stouts.
     url: https://www.laugarbrewery.com/
     path: /images/breweries/laugar_brewery/laugar_brewery_logo.png
+
+  - title: Wolves & People Farmhouse Brewery
+    text: är ett mycket spännande gårdsbryggeri som producerar skogslagrad, vildjäst öl i hjärtat av Oregon, USA. De binder egna fat, odlar spannmål och frukt, och använder jäst från gårdens träd och bikupor. Processen är inspirerad av allt från vintillverkning till urgamla europeiska och västafrikanska bryggmetoder.
+    url: https://www.wolvesandpeople.com/
+    path: /images/breweries/wolves_and_people/wolves_and_people_logo.png
