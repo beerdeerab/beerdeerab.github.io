@@ -4,6 +4,11 @@ logos:
     url: https://alesmith.com/ 
     path: /images/breweries/alesmith_brewing/alesmith_brewing_logo.png
 
+#  - title: Bellwoods Brewery
+#    text: grundades 2014 på en bondgård i Tyrolen, och har kommit att bli ett av Österrikes mest tongivande bryggerier sedan dess. Framgången bygger på respekt för regionens traditioner - som bland annat yttrar sig i sammarbete med lokala spannmålsproducenter - förenad med uppfinningsrikedom och vilja att experimentera.
+#    url: https://www.bellwoodsbrewery.com
+#    path: /images/breweries/bellwoods_brewery/bellwoods_brewery_logo.webp
+
   - title: Bierol
     text: grundades 2014 på en bondgård i Tyrolen, och har kommit att bli ett av Österrikes mest tongivande bryggerier sedan dess. Framgången bygger på respekt för regionens traditioner - som bland annat yttrar sig i sammarbete med lokala spannmålsproducenter - förenad med uppfinningsrikedom och vilja att experimentera.
     url: https://www.bierol.at/
@@ -24,10 +29,10 @@ logos:
     url: https://drinkdrakes.com/
     path: /images/breweries/drakes_brewing/drakes_brewing_logo.png
 
-  - title: Hoppin' Frog Brewery
-    text: bör vara ett välkänt namn för alla med ölintresse. Tack vare kompromisslös fokus på detaljer och ingredienser har de behållit sin position som ett av världens bästa bryggerier sedan starten 2006 i Akron, Ohio. Deras öl förblir lika suveräna som de alltid har varit.
-    url: http://www.hoppinfrog.com/
-    path: /images/breweries/hoppin_frog_brewery/hoppin_frog_brewery_logo.png
+  #- title: Hoppin' Frog Brewery
+  #  text: bör vara ett välkänt namn för alla med ölintresse. Tack vare kompromisslös fokus på detaljer och ingredienser har de behållit sin position som ett av världens bästa bryggerier sedan starten 2006 i Akron, Ohio. Deras öl förblir lika suveräna som de alltid har varit.
+  #  url: http://www.hoppinfrog.com/
+  #  path: /images/breweries/hoppin_frog_brewery/hoppin_frog_brewery_logo.png
 
   - title: Laugar Brewery
     text: är ett spanskt mikrobryggeri, lokaliserat i Gordexola, i Baskien. Det föddes 2010, som en motreaktion mot industrialiserad öl, och har etablerat sig som ett av Spaniens bästa bryggerier sedan dess, inte minst tack vare sina imperial stouts.

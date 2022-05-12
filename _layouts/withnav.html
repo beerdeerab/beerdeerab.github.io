@@ -3,13 +3,20 @@ layout: default
 ---
 
 <header>
-
-   <div class="menu">
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.withnav.navbar_entries %}
-  </div>    
-  
-{% endif %}
+  <div class="menu">
+  {% assign sorted_pages = site.pages | sort:"order" %}
+  {% if site.theme_config.show_navbar == true %}  
+  <ul class="horizontal-list">
+    {% for node in sorted_pages %}
+      {% if node.title != null and node.title != "" %}
+        {% if page.url != node.url %}
+          <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
 <div class="dashed"></div>
 </header>
 
