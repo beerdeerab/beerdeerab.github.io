@@ -13,6 +13,6 @@ order: 1
 
 <div>
     <p>
-      Vi på BeerDeer brinner för kvalitet. <b>Det ska vara gott med öl. </b>Amerikanska hantverksipor, traditionella tyska stilar, experimentell suröl... Vi gillar allt som är gediget, utpräglat och genomtänkt.</p>
+      Vi är en svensk importör av kvalitetsöl. Amerikanska hantverksipor, traditionella tyska stilar, experimentell suröl... Vi gillar allt som är gediget, utpräglat, genomtänkt <b>- och gott!</b></p>
   </div>
 
