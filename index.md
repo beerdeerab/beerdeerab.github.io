@@ -13,7 +13,7 @@ order: 1
 
 <div>
     <p>
-      Vi är en svensk importör av kvalitetsöl. Amerikanska hantverksipor, traditionella tyska stilar, experimentell suröl... Vi gillar allt som är gediget, utpräglat, genomtänkt <b>och gott!</b></p>
+      Vi är en svensk importör av kvalitetsöl. Amerikanska hantverksipor, traditionella tyska stilar, experimentell suröl... Vi gillar allt som är gediget, genomtänkt <b>och gott!</b></p>
   </div>
 
 
