@@ -223,7 +223,9 @@ img.logo {
 .flex-container {
   display: flex;
   height: 6em;
-  width: 60%;
+  @media (min-width: 800px) {
+    width: 60%;
+  }
   /* background-color: #00ff00; */
   /* justify-content: space-between;*/ /* could also try with space-around */
   margin-bottom:2em;
@@ -276,7 +278,11 @@ img.logo {
   }
   img{
     height: 6em;
+    @media (max-width: 800px) {
+      height: 5em;
+    }
   }
+
 }
 
 header{
