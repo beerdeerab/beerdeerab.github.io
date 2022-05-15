@@ -34,7 +34,7 @@ li { margin: 0.4em 0; }
 .w {
   max-width: 720px;
   margin: 0 auto;
-  padding: 4em 2em;
+  padding: 2.5em 2em;
 }
 
 table, th, td {
@@ -220,3 +220,65 @@ img.logo {
 }
 
 
+.flex-container {
+  display: flex;
+  height: 6em;
+  width: 60%;
+  /* background-color: #00ff00; */
+  /* justify-content: space-between;*/ /* could also try with space-around */
+  margin-bottom:2em;
+}
+
+.flex-child {
+  display: flex;
+  /* justify-content: center; */
+  align-items: stretch-start;
+  flex-grow: 1;
+  /* background-color: #ff0000; */
+  /* height: calc(100% - 20px); */ /* for demonstration purposes, subtracts top and bottom margin from height */
+  /* margin: 10px; */ /* for demonstration purposes */
+  position: relative;
+  a{
+    text-decoration: none;
+    font-weight: normal;
+    position: absolute;
+    bottom:-0.4em;
+  }
+  a.image-link{
+    position: absolute;
+    bottom: 0px;
+  } 
+  a.disabled-link{
+    pointer-events: none;
+    cursor: default;
+    color: #C79B54;
+  } 
+}
+
+.flex-child-image {
+  display: flex;
+  /* justify-content: center; */
+  align-items: stretch-start;
+  flex-grow: 1;
+  /* background-color: #ff0000; */
+  /* height: calc(100% - 20px); */ /* for demonstration purposes, subtracts top and bottom margin from height */
+  /* margin: 10px; */ /* for demonstration purposes */
+  position: relative;
+  a{
+    text-decoration: none;
+    font-weight: normal;
+    position: absolute;
+    bottom:-0.25em;
+  }
+  a.image-link{
+    position: absolute;
+    bottom: 0px;
+  }
+  img{
+    height: 6em;
+  }
+}
+
+header{
+  margin-bottom: 2.5em;
+}

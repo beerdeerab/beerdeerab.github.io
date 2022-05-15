@@ -7,11 +7,11 @@ navbar_entries:
 
 #  - title: website
 #    url: https://www.abhinav.co
-  - title: bryggerier
-    url: breweries
+#  - title: bryggerier
+#    url: breweries
 
-  - title: företag
-    url: companies
+#  - title: företag
+#    url: companies
 
 project_entries:
   - title: Project 1
