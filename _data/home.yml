@@ -111,6 +111,22 @@ misc_entries:
 
 
 news:
+
+  #- title: AleSmith/Pizza Port Beach Run
+  #  text: Finns på Systembolaget från och med 10/6!
+  #  url: https://www.systembolaget.se/produkt/ol/alesmith-brewingpizza-port-brewing-1126814/
+  #  path: /images/products/alesmith/BeachRunBeerGarden-5.jpg
+
+  #- title: AleSmith San Diego Pale Ale .394
+  #  text: Finns på Systembolaget från och med 3/6!
+  #  url: https://www.systembolaget.se/produkt/ol/alesmith-brewing-company-1240515/
+  #  path: /images/products/alesmith/394social2_1200x1200.jpg
+  
+  - title: AleSmith Speedway Stout
+    text: Finns på Systembolaget från och med 27/5!
+    url: https://www.systembolaget.se/produkt/ol/alesmith-brewing-company--1000914/
+    path: /images/products/alesmith/speedway.jpg
+
   - title: Drake's Aroma Coma IPA
     text: Finns på Systembolaget från och med 25/3!
     url: https://www.systembolaget.se/produkt/ol/aroma-coma-1086114/ 
@@ -126,3 +142,4 @@ news:
     url: https://www.systembolaget.se/produkt/ol/brauhaus-bevog-1049503/ 
     path: /images/products/bevog/IMG-0651.JPG
 
+  
