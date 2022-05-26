@@ -117,10 +117,10 @@ news:
   #  url: https://www.systembolaget.se/produkt/ol/alesmith-brewingpizza-port-brewing-1126814/
   #  path: /images/products/alesmith/BeachRunBeerGarden-5.jpg
 
-  #- title: AleSmith San Diego Pale Ale .394
-  #  text: Finns på Systembolaget från och med 3/6!
-  #  url: https://www.systembolaget.se/produkt/ol/alesmith-brewing-company-1240515/
-  #  path: /images/products/alesmith/394social2_1200x1200.jpg
+  - title: AleSmith San Diego Pale Ale .394
+    text: Full av humlearom och med en maltig sötma - en perfekt pale ale enligt med många med oss. Finns på Systembolaget från och med 3/6!
+    url: https://www.systembolaget.se/produkt/ol/alesmith-brewing-company-1240515/
+    path: /images/products/alesmith/394social2_1200x1200.jpg
   
   - title: AleSmith Speedway Stout
     text: En legendarisk imperial stout med smak av kaffe, mörk choklad, kola och karamell. Finns på Systembolaget från och med 27/5!
