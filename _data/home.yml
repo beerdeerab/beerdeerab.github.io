@@ -112,10 +112,10 @@ misc_entries:
 
 news:
 
-  #- title: AleSmith/Pizza Port Beach Run
-  #  text: Finns på Systembolaget från och med 10/6!
-  #  url: https://www.systembolaget.se/produkt/ol/alesmith-brewingpizza-port-brewing-1126814/
-  #  path: /images/products/alesmith/BeachRunBeerGarden-5.jpg
+  - title: AleSmith/Pizza Port Beach Run IPA
+    text: Lagom till sommaren - en juicig San Diego-collab från AleSmith och Pizza Port! Finns på Systembolaget från och med 10/6!
+    url: https://www.systembolaget.se/produkt/ol/alesmith-brewingpizza-port-brewing-1126814/
+    path: /images/products/alesmith/BeachRunBeerGarden-5.jpg
 
   - title: AleSmith San Diego Pale Ale .394
     text: Full av humlearom och med en maltig sötma - en perfekt pale ale enligt med många med oss. Finns på Systembolaget från och med 3/6!
