@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Prislista</title>
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+ <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body style="margin: 0px">
+ <div id="adobe-dc-view"></div>
+ <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
+ <script type="text/javascript">
+	const previewConfig = {
+		showZoomControl: false,
+		showAnnotationTools: false,
+		showFullScreen: true,
+		defaultViewMode: "FIT_WIDTH",
+		enableFormFilling: false,
+		showDownloadPDF: false,
+		showPrintPDF: false,
+		exitPDFViewerType: "CLOSE",
+		showThumbnails: false,
+		showBookmarks: false,
+		enableLinearization: false,
+		enableAnnotionAPIs: false,
+		enableSearchAPIs: false,
+		showDisabledSaveButton: false,
+   		embedMode: "FULL_WINDOW"
+	}
+    document.addEventListener("adobe_dc_view_sdk.ready", function()
+    {
+        var adobeDCView = new AdobeDC.View({clientId: "aa9a46fcd05341069481a106080ad490", divId: "adobe-dc-view", locale: "sv-SE" });
+        adobeDCView.previewFile(
+       {
+          content:   {location: {url: "https://www.beerdeer.se/docs/BeerDeer_20220815.pdf"}},
+          metaData: {fileName: "Prislista.pdf"},
+       }, previewConfig);
+    });
+ </script>
+</body>
+</html>
