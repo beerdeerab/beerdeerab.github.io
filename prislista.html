@@ -29,10 +29,14 @@
 	}
     document.addEventListener("adobe_dc_view_sdk.ready", function()
     {
-        var adobeDCView = new AdobeDC.View({clientId: "0be16d9a8c7d4fb9962b8fc95eb4419d", divId: "adobe-dc-view", locale: "sv-SE" });
+    	/* dev aa9a46fcd05341069481a106080ad490 */
+    	/* prod 0be16d9a8c7d4fb9962b8fc95eb4419d */
+        var adobeDCView = new AdobeDC.View({clientId: "0be16d9a8c7d4fb9962b8fc95eb4419d", divId: "adobe-dc-view", locale: "sv-SE" });        
         adobeDCView.previewFile(
        {
-          content:   {location: {url: "https://www.beerdeer.se/docs/news/kowvcna.pdf"}},
+       	  /* dev content: {location: {url: "http://localhost:4000/docs/news/xxx.pdf"}}, */
+      	  /* prod content: {location: {url: "https://www.beerdeer.se/docs/news/xxx.pdf"}}, */
+		  content: {location: {url: "https://www.beerdeer.se/docs/news/qurpsdg.pdf"}},
           metaData: {fileName: "Prislista.pdf"},
        }, previewConfig);
     });
