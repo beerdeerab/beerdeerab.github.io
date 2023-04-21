@@ -1,0 +1,167 @@
+ul.horizontal-list {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0em;
+  margin-left: -40px;
+  margin-bottom: 0em;
+  flex-wrap: wrap;
+
+  li {
+    display:inline;
+    /*margin-right: 1em;*/
+    margin-bottom:0em;
+  }
+
+  li a {
+    text-decoration: none;
+    font-weight: normal;
+  }
+
+}
+
+.card {
+  padding: 1em;
+  border: 1px var(--text) solid;
+  width: 11em;
+  height: auto;
+  text-align: center;
+  font-size: 1em;
+  align-items: center;
+  background-color: var(--bg-secondary);
+  margin-bottom: 0.8em;
+  border-radius: 0.8em;
+
+  .header {
+    color: var(--links);
+  }
+
+  .body {
+    font-size: 0.8em;
+  }
+
+  hr {
+    margin: 0.5em 0;
+  }
+
+}
+
+/* Responsive cards - one column layout on small screens */
+@media screen and (max-width: 600px) {
+  ul.horizontal-list li.card {
+    width: 100%;
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    a, .header {
+      font-size: 1em;
+    }
+  }
+}
+
+
+div.logo-list {
+  width: 100%;
+  float: left;
+
+ ul {
+  float: left;
+  width: 100%;
+  list-style-type: none;
+  /* padding: 40px; */
+  margin: 0;
+  box-sizing: border-box;
+  padding-left:0px;
+}
+
+li {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  @media (min-width: 600px) {
+    padding-top: 1.5em;     
+  }
+}
+
+img {-width: 15em;
+  max-height: 15em;
+  height: auto;
+  width: auto;
+  margin-bottom: 1em;
+  @media (min-width: 600px) {
+    margin-top: 1em;
+  }
+  /* border-radius: 50px; */
+}
+}
+
+p {
+  flex: 1;
+  margin-left: 1em;
+  margin-right: 0.5em;
+}
+mark {
+  padding:0px;
+  margin:0px;
+}
+
+div.news-list {
+  width: 100%;
+  float: left;
+  /* padding-top: 1em; */
+
+ ul {
+  float: left;
+  width: 100%;
+  list-style-type: none;
+  /* padding: 40px; */
+  margin: 0;
+  box-sizing: border-box;
+  padding-left:0px;
+}
+
+li {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  padding-top: 0.5em;
+}
+
+.image-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 1em;
+  left: 4em;
+}
+
+img {
+  max-width: 90%;
+  /* max-height: 50em; */
+  height: auto;
+  width: auto;
+  margin-bottom: 1em;
+  /* border-radius: 50px; */
+}
+
+p {
+  flex: 1;
+  margin-left: 1em;
+}
+mark {
+  padding:0px;
+  margin:0px;
+}
+
+h1 {
+  
+  padding-top:0.25em;
+  padding-bottom:0.25em;
+  margin:0px;
+}
+
+}
+

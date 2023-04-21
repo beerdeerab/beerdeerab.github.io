@@ -1,0 +1,95 @@
+logos:
+  - title: Alesmith Brewing Co.
+    text: är ett amerikanskt hantverksbryggeri, baserat i San Diego, Kalifornien. Grundat 1995. De innehar en topplacering på flertalet listor över världens bästa bryggerier, sedan många år tillbaka.
+    url: https://alesmith.com/ 
+    path: /images/breweries/alesmith_brewing/alesmith_brewing_logo.png
+
+  - title: Bellwoods Brewery
+    text:  började med en liten pub i Toronto 2012. Sedan dess har volymen ökat en aning, men det är kvaliteten som gör att de betraktas som ett av Kanadas främsta bryggerier. Deras starkt humlade, ofta vildjästa kreationer är och har varit trendledande i Ontario-regionen.
+    url: https://www.bellwoodsbrewery.com
+    path: /images/breweries/bellwoods_brewery/bellwoods_brewery_logo.png
+
+#  - title: Bierol
+#    text: grundades 2014 på en bondgård i Tyrolen, och har kommit att bli ett av Österrikes mest tongivande bryggerier sedan dess. Framgången bygger på respekt för regionens traditioner - som bland annat yttrar sig i samarbete med lokala spannmålsproducenter - förenad med uppfinningsrikedom och vilja att experimentera.
+#    url: https://www.bierol.at/
+#    path: /images/breweries/bierol/bierol_logo.png
+
+  - title: Brauerei Nothhaft
+    text: är ett familjeägt bryggeri som grundades i Marktredwitz i tyska Bayern redan 1882. De producerar öl i klassiska tyska stilar, i låga temperaturer, med karaktäristiskt lokalt källvatten. Ledorden är tradition, småskalighet och kvalitet.
+    url: https://www.brauerei-nothhaft.de/
+    path: /images/breweries/brauerei_nothhaft/brauerei_nothhaft_logo.jpg
+
+  - title: Brauhaus Bevog
+    text: är ett prisbelönt bryggeri med slovenska rötter, baserat i spastaden Bad Rakersburg, i Österrike. Grundat 2013. Känt och hyllat för egensinnighet och hög kvalitet.
+    url: https://bevog.com/
+    path: /images/breweries/bevog_brauhaus/bevog_brauhaus_logo.png
+
+  - title: Brouwerij de Dochter van de Korenaar
+    text: ("sädesaxets dotter") drivs av Ronald Mengerink och hans fru Monique, i Baarle-Hertog i Belgien, sedan 2007. Roland beskriver sig själv som "en holländare som brygger belgiska öl med franska namn". Hans skapelser kännetecknas av djupa, fylliga smaker, uttänkta detaljer och i många fall fatlagring.
+    url: https://www.dedochtervandekorenaar.be/
+    path: /images/breweries/brouwerij_ddvdk/brouwerij_ddvdk_logo.png
+
+  - title: Cascade Brewing
+    text: har varit pionjärer inom amerikansk syrlig öl sedan starten 1998. Deras specialitet är fatlagrad suröl som smaksätts med frukt och andra råvaror från hemstaten Oregon, i nordvästra USA. De har flera kreationer som rankas högst i sina respektive kategorier av många bedömare.
+    url: https://cascadebrewing.com/
+    path: /images/breweries/cascade_brewing/cascade_brewing_logo.png
+
+  - title: Cierzo Brewing Co.
+    text: grundades 2018 i Aragonien i Spanien, av ett antal nyckelfigurer inom regionens ölscen. De utsågs till Spaniens bästa nya bryggeri av Ratebeer året därpå, och tog hem utmärkelsen bästa nya bryggeri på Barcelona Beer Festival 2020. Namnet kommer från en karakteristisk vind som löper genom Zaragoza, utefter floden Ebo.
+    url: https://cierzobrewing.com/nosotros/
+    path: /images/breweries/cierzo_brewing_co/logo2_negtivo.jpg
+
+  - title: CRAK Brewery
+    text: odlar eget korn, experimenterar med humle och håller bikupor på gården i Padua, Italien, där bryggeriet ligger. Målsättningen är att vara oberoende i högsta möjliga grad. Anläggningen invigdes 2015 och sedan dess har de gjort sig kända som ett av Italiens bästa - och stiligaste! - bryggerier.
+    url: https://www.crakbrewery.com/
+    path: /images/breweries/crak_brewery/crak_brewery_logo.jpg
+
+  - title: Drake's Brewing Co.
+    text: är ett amerikanskt hantverksbryggeri, baserat i San Leandro, Kalifornien. Det grundades 1989 (under annat namn) och har bryggt många prisbelönade öl sedan dess.
+    url: https://drinkdrakes.com/
+    path: /images/breweries/drakes_brewing/drakes_brewing_logo.png
+
+  - title: Hop Hooligans
+    text: prövar gärna nya stilar och experimenterar med nya idéer, så länge de fortsätter att brygga öl som de själva vill dricka. Den kompromisslösheten har förlänat huliganerna en självklar position som Rumäniens främsta hantverksbryggeri, och ett av Europas mest intressanta att följa, sedan starten 2016.
+    url: https://www.hophooligans.ro/
+    path: /images/breweries/hop_hooligans/hop_hooligans_logo2.png
+
+  - title: Kemker Kultuur
+    text: är något så ovanligt som ett tyskt farmhouse-bryggeri. Verksamheten bedrivs på en gård i Nordhrein-Westfalen, där det produceras fatlagrade viner, cider och torra, fruktiga öl sedan 2017. De använder lokalt odlade råvaror, lokal mikroflora och inspiration från regionala traditioner.
+    url: https://www.brauerei-kemker.de/i/ueber-uns
+    path: /images/breweries/kemker_kultuur/kemker_kultuur_logo.png
+
+  - title: Knee Deep Brewing Co.
+    text: från Auburn i Kalifornien är ett familjeägt hantverksbryggeri som mest har gjort sig kända för humlestarka öl. Deras ipor har övervägande västkustkaraktär, med aromer som sitter kvar i glaset efteråt, och får genomgående goda omdömen både på hemmaplan och utomlands.
+    url: https://kneedeepbrewing.com/our-story
+    path: /images/breweries/knee_deep_brewing_co/knee_deep_logo.png
+
+  - title: Laugar Brewery
+    text: är ett spanskt mikrobryggeri, lokaliserat i Gordexola, i Baskien. Det föddes 2010, som en motreaktion mot industrialiserad öl, och har etablerat sig som ett av Spaniens bästa bryggerier sedan dess, inte minst tack vare sina imperial stouts.
+    url: https://www.laugarbrewery.com/
+    path: /images/breweries/laugar_brewery/laugar_brewery_logo.png
+
+  - title: Neon Raptor Brewing Co.
+    text: är ett engelskt mikrobryggeri, grundat i Nottingham 2016. De har gjort sig kända för överdådiga tolkningar av moderna ölstilar, samt en särpräglad estetik med inspiration från glamrock, åttiotal, tevespel - och dinosaurier så klart.
+    url: https://neonraptorbrewingco.com/about.html
+    path: /images/breweries/neon_raptor_brewing_co/neon_raptor_brewing_co_logo.png
+
+  - title: Offshoot Beer Co.
+    text: är ett systerbryggeri till <b>the Bruery</b>, grundat specifikt för att fokusera mer på humle. Medan the Bruery inoverar inom äldre traditioner är Offshoot omisskännligt amerikanskt, kaliforniskt rentav, med öl som är solig, glad - och väldigt god.
+    url: https://www.thebruery.com/pages/offshoot-about-us
+    path: /images/breweries/offshoot_beer_co/offshoot_beer_co_logo.png
+
+  - title: Pivovar Polička
+    text: (Měšťanský pivovar v Poličce) grundades redan 1517 i östra Böhmen, men var på väg att försvinna helt under det oroliga 1900-talet. Lyckligtvis fick konstnären och musikern Karel Witz tillbaka familjeföretaget 1989, och deras klassiska tjeckiska pilsner lever vidare.
+    url: https://www.pivovar-policka.cz/o-pivovaru.html
+    path: /images/breweries/pivovar_policka/policce_logo.png
+
+  - title: The Bruery
+    text: från Placentia i Kalifornien har bryggt egna tolkningar av klassiska stilar sedan 2008. De har av princip aldrig släppt en IPA, men däremot en mängd belgo-inspirerade öl och fatlagrade stouts, varav ett flertal har belönats med diverse utmärkelser. "Smak framför stil" lyder mottot.
+    url: https://www.thebruery.com/pages/about-us
+    path: /images/breweries/the_bruery/the_bruery_logo.png
+
+  - title: Wolves & People Farmhouse Brewery
+    text: är ett mycket spännande gårdsbryggeri som producerar skogslagrad, vildjäst öl i hjärtat av Oregon, USA. De binder egna fat, odlar spannmål och frukt, och använder jäst från gårdens träd och bikupor. Processen är inspirerad av allt från vintillverkning till urgamla europeiska och västafrikanska bryggmetoder.
+    url: https://www.wolvesandpeople.com/
+    path: /images/breweries/wolves_and_people/wolves_and_people_logo.png

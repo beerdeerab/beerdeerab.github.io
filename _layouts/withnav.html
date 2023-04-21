@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<header>
+
+
+  <!-- div class="menu">
+  {% assign sorted_pages = site.pages | sort:"order" %}
+  {% if site.theme_config.show_navbar == true %}  
+  <ul class="horizontal-list">
+    {% for node in sorted_pages %}
+      {% if node.title != null and node.title != "" %}
+        {% if node.title == "hem" %}
+          <li style="display: inline-block;"><a href="{{node.url}}"><img style="display: inline-block; height: 6em;" src="/images/company/BeerDeer.png"></a></li>
+        {% else if page.url != node.url %}
+          <li style="display: inline-block;"><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div -->
+
+<!--
+{% if site.theme_config.show_navbar == true %}
+{% assign sorted_pages = site.pages | sort:"order" %}  
+<div class="flex-container">
+  {% for node in sorted_pages %}
+  {% if node.title != null and node.title != "" %}
+  {% if page.url != node.url %}  
+  <div class="flex-child">
+    <a href="{{node.url}}">{{node.title}}</a>
+  </div>  
+  {% else %}
+  <div class="flex-child">
+    <a class="disabled-link" href="{{node.url}}">{{node.title}}</a> 
+  </div>  
+  {% endif %}
+  {% endif %}
+  {% endfor %} 
+</div>
+{% endif %}
+-->
+
+
+{% if site.theme_config.show_navbar == true %}
+{% assign sorted_pages = site.pages | where: "menuitem",true | sort:"order" %}  
+<div>
+  <ul class="horizontal-list" id="menu">
+  {% for node in sorted_pages %}
+  {% if node.title != null and node.title != "" %}
+  {% unless node.url contains 'sidan' %}
+  {% if page.url != node.url %}
+    <li><a href="{{node.url}}">{{node.menuname}}</a></li>
+  {% else %}
+    <li><a class="disabled-link" href="{{node.url}}">{{node.menuname}}</a></li>
+  {% endif %}
+  {% endunless %}
+  {% endif %}
+  {% endfor %} 
+</ul>
+<span></span>
+</div>
+{% endif %}
+
+<div class="dashed"></div>
+</header>
+
+{{ content }}
+
+{% if site.theme_config.show_footer == true %}
+  &nbsp;
+  <footer>    
+    <div class="dashed"></div>
+
+    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+<div> 
+<a href="/"><img id="index-logo" src="/images/company/BeerDeer.png" alt="BeerDeer-logo"></a>
+<div style="text-align:center;"><code>BeerDeer AB {{ 'now' | date: "%Y" }}</div>
+</div> 
+
+ 
+  </footer>
+{% endif %}
