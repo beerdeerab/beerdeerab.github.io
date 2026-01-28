@@ -1,53 +1,5 @@
 ﻿[
     {
-        "id":  "8822214",
-        "name":  "Badlands Brewing Dora #77",
-        "producer":  "Badlands Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "Kanada",
-        "abv":  6.5,
-        "volumeMl":  473,
-        "priceSek":  146.5,
-        "releaseDate":  "2025-04-29",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/badlands-brewing-8822214/"
-    },
-    {
-        "id":  "8865514",
-        "name":  "Belleflower Brewing Disco Disco Disco",
-        "producer":  "Belleflower Brewing",
-        "style":  "Övrig syrlig öl",
-        "country":  "USA",
-        "abv":  5.5,
-        "volumeMl":  473,
-        "priceSek":  121.4,
-        "releaseDate":  "2025-05-12",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8865514/"
-    },
-    {
-        "id":  "8848009",
-        "name":  "Belleflower Brewing Humlat mixpack #1",
-        "producer":  "Belleflower Brewing",
-        "style":  "India pale ale (IPA)",
-        "country":  "USA",
-        "abv":  7.4,
-        "volumeMl":  1892,
-        "priceSek":  396.6,
-        "releaseDate":  "2025-04-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8848009/"
-    },
-    {
         "id":  "8800834",
         "name":  "Bellwoods Blood Brother Brewing Goblin’s Trill Double IPA",
         "producer":  "Bellwoods Brewery",
@@ -62,22 +14,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-blood-brother-brewing-8800834/"
-    },
-    {
-        "id":  "1029001",
-        "name":  "Bellwoods Brewery  Bring Out Your Dead",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Imperial porter och stout",
-        "country":  "Kanada",
-        "abv":  11.3,
-        "volumeMl":  500,
-        "priceSek":  129.5,
-        "releaseDate":  "2025-05-16",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-1029001/"
     },
     {
         "id":  "8800901",
@@ -160,22 +96,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8843701/"
     },
     {
-        "id":  "8806014",
-        "name":  "Bellwoods Brewery Brettal Head",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  6,
-        "volumeMl":  473,
-        "priceSek":  117.1,
-        "releaseDate":  "2025-05-27",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8806014/"
-    },
-    {
         "id":  "1013101",
         "name":  "Bellwoods Brewery Double Ba Boyd",
         "producer":  "Bellwoods Brewery",
@@ -190,22 +110,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-1013101/"
-    },
-    {
-        "id":  "1089401",
-        "name":  "Bellwoods Brewery Farmageddon Dry Hopped",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  6,
-        "volumeMl":  500,
-        "priceSek":  85.2,
-        "releaseDate":  "2025-05-16",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-1089401/"
     },
     {
         "id":  "8805902",
@@ -238,22 +142,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-5452702/"
-    },
-    {
-        "id":  "8857509",
-        "name":  "Bellwoods Brewery Humlat mixpack #1",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Mixpack öl",
-        "country":  "Kanada",
-        "abv":  6.5,
-        "volumeMl":  1892,
-        "priceSek":  330.6,
-        "releaseDate":  "2024-12-10",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8857509/"
     },
     {
         "id":  "8894001",
@@ -318,22 +206,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8868201/"
-    },
-    {
-        "id":  "8831701",
-        "name":  "Bellwoods Brewery Jelly King Double Strawberry",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  5.6,
-        "volumeMl":  500,
-        "priceSek":  127.2,
-        "releaseDate":  "2025-02-10",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8831701/"
     },
     {
         "id":  "8810634",
@@ -416,22 +288,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8892115/"
     },
     {
-        "id":  "8867815",
-        "name":  "Bellwoods Brewery Skeleton Key Pineapple Coconut",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Imperial porter och stout",
-        "country":  "Kanada",
-        "abv":  10.5,
-        "volumeMl":  355,
-        "priceSek":  191.2,
-        "releaseDate":  "2025-05-05",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8867815/"
-    },
-    {
         "id":  "8825901",
         "name":  "Bellwoods Brewery Vines (Chambourcin)",
         "producer":  "Bellwoods Brewery",
@@ -512,22 +368,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-8868101/"
     },
     {
-        "id":  "8813714",
-        "name":  "Bissell Brothers Brewing Company The Substance",
-        "producer":  "Bissell Brothers Brewing Company",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  6.6,
-        "volumeMl":  473,
-        "priceSek":  118,
-        "releaseDate":  "2025-04-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-8813714/"
-    },
-    {
         "id":  "8821101",
         "name":  "Boerenerf 1871 Oude Geuze",
         "producer":  "Boerenerf",
@@ -558,22 +398,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8811901/"
-    },
-    {
-        "id":  "1018801",
-        "name":  "Boerenerf Gueuze Cuvée Héritage",
-        "producer":  "Boerenerf",
-        "style":  "Gueuze",
-        "country":  "Belgien",
-        "abv":  6.9,
-        "volumeMl":  750,
-        "priceSek":  200.1,
-        "releaseDate":  "2025-07-04",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-1018801/"
     },
     {
         "id":  "8870301",
@@ -656,54 +480,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8890701/"
     },
     {
-        "id":  "8864803",
-        "name":  "Brauhaus Bevog Aisla",
-        "producer":  "Brauhaus Bevog",
-        "style":  "Imperial porter och stout",
-        "country":  "Österrike",
-        "abv":  15,
-        "volumeMl":  375,
-        "priceSek":  222.6,
-        "releaseDate":  "2024-12-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8864803/"
-    },
-    {
-        "id":  "8858103",
-        "name":  "Brauhaus Bevog BA Raspberry",
-        "producer":  "Brauhaus Bevog",
-        "style":  "Imperial porter och stout",
-        "country":  "Österrike",
-        "abv":  15.1,
-        "volumeMl":  375,
-        "priceSek":  222.7,
-        "releaseDate":  "2024-12-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8858103/"
-    },
-    {
-        "id":  "8865703",
-        "name":  "Brauhaus Bevog Wolgor Blend 1123",
-        "producer":  "Brauhaus Bevog",
-        "style":  "Imperial porter och stout",
-        "country":  "Österrike",
-        "abv":  12.5,
-        "volumeMl":  330,
-        "priceSek":  210.4,
-        "releaseDate":  "2024-12-23",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8865703/"
-    },
-    {
         "id":  "8871809",
         "name":  "Burdock Brewery - Ducks! Humlat mixpack öl",
         "producer":  "Burdock",
@@ -750,6 +526,262 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/burdock-brewery-8868003/"
+    },
+    {
+        "id":  "8846901",
+        "name":  "Cascade Brewing Noyaux",
+        "producer":  "Cascade Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  8.3,
+        "volumeMl":  750,
+        "priceSek":  249.5,
+        "releaseDate":  "2025-09-23",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8846901/"
+    },
+    {
+        "id":  "8876634",
+        "name":  "District 96 Beer Factory Family Fun",
+        "producer":  "District 96 Beer Factory",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  8.5,
+        "volumeMl":  473,
+        "priceSek":  129.9,
+        "releaseDate":  "2025-12-09",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8876634/"
+    },
+    {
+        "id":  "8875001",
+        "name":  "District 96 Beer Factory Kobra Chai",
+        "producer":  "District 96 Beer Factory",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  8,
+        "volumeMl":  750,
+        "priceSek":  276.9,
+        "releaseDate":  "2025-08-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8875001/"
+    },
+    {
+        "id":  "8810134",
+        "name":  "District 96 Beer Factory Lost In Space",
+        "producer":  "District 96 Beer Factory",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  8.2,
+        "volumeMl":  473,
+        "priceSek":  143.9,
+        "releaseDate":  "2025-11-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8810134/"
+    },
+    {
+        "id":  "8809334",
+        "name":  "District 96 Beer Factory Mother of All Photo Bombs",
+        "producer":  "District 96 Beer Factory",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  8,
+        "volumeMl":  473,
+        "priceSek":  143.9,
+        "releaseDate":  "2025-11-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8809334/"
+    },
+    {
+        "id":  "8813934",
+        "name":  "District 96 Beer Factory Photo Op",
+        "producer":  "District 96 Beer Factory",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  6.5,
+        "volumeMl":  473,
+        "priceSek":  124.9,
+        "releaseDate":  "2025-11-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8813934/"
+    },
+    {
+        "id":  "8850601",
+        "name":  "Kemker Kultuur Aoltbeer 01–2023",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  6,
+        "volumeMl":  750,
+        "priceSek":  250.8,
+        "releaseDate":  "2024-11-25",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8850601/"
+    },
+    {
+        "id":  "8820301",
+        "name":  "Kemker Kultuur Fliärblome",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  6,
+        "volumeMl":  750,
+        "priceSek":  269.8,
+        "releaseDate":  "2024-12-23",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8820301/"
+    },
+    {
+        "id":  "8856301",
+        "name":  "Kemker Kultuur Kumpeni",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Smaksatt/kryddad öl",
+        "country":  "Tyskland",
+        "abv":  6,
+        "volumeMl":  750,
+        "priceSek":  298,
+        "releaseDate":  "2025-12-29",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8856301/"
+    },
+    {
+        "id":  "8813401",
+        "name":  "Kemker Kultuur Rosa",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  5.5,
+        "volumeMl":  750,
+        "priceSek":  249,
+        "releaseDate":  "2025-12-30",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8813401/"
+    },
+    {
+        "id":  "8830903",
+        "name":  "Kemker Kultuur Smauk",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  7,
+        "volumeMl":  375,
+        "priceSek":  159.8,
+        "releaseDate":  "2026-01-21",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8830903/"
+    },
+    {
+        "id":  "8839834",
+        "name":  "KOM Beer Demon Dragon",
+        "producer":  "KOM Beer",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Spanien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  127.9,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kom-beer-8839834/"
+    },
+    {
+        "id":  "8812834",
+        "name":  "KOM Beer Hop Bacon",
+        "producer":  "KOM Beer",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Spanien",
+        "abv":  8,
+        "volumeMl":  473,
+        "priceSek":  127.9,
+        "releaseDate":  "2025-12-17",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kom-beer-8812834/"
+    },
+    {
+        "id":  "8899634",
+        "name":  "KOM Beer Panoramix",
+        "producer":  "KOM Beer",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Spanien",
+        "abv":  8.2,
+        "volumeMl":  440,
+        "priceSek":  127.9,
+        "releaseDate":  "2025-12-02",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kom-beer-8899634/"
+    },
+    {
+        "id":  "8887134",
+        "name":  "KOM Beer Popeye",
+        "producer":  "KOM Beer",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "Spanien",
+        "abv":  7.5,
+        "volumeMl":  440,
+        "priceSek":  124.9,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kom-beer-8887134/"
+    },
+    {
+        "id":  "8841734",
+        "name":  "KOM Beer Super Dragon",
+        "producer":  "KOM Beer",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  9.2,
+        "volumeMl":  440,
+        "priceSek":  131.9,
+        "releaseDate":  "2025-12-02",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kom-beer-8841734/"
     },
     {
         "id":  "8887203",
@@ -862,5 +894,245 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/laugar-brewery-8898801/"
+    },
+    {
+        "id":  "8832909",
+        "name":  "Neon Raptor Brewing - Mixpack #3 Ale/Porter/Stout",
+        "producer":  "Neon Raptor",
+        "style":  "Mixpack öl",
+        "country":  "Storbritannien",
+        "abv":  5.8,
+        "volumeMl":  1760,
+        "priceSek":  300,
+        "releaseDate":  "2025-10-14",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-mixpack-3-8832909/"
+    },
+    {
+        "id":  "8810434",
+        "name":  "Neon Raptor Brewing \u0026 Amity Brew Stomping Ground",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Storbritannien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  121.9,
+        "releaseDate":  "2025-10-13",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-amity-brew-8810434/"
+    },
+    {
+        "id":  "8825334",
+        "name":  "Neon Raptor Brewing Co Ninth Birthday DIPA",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Storbritannien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  120.9,
+        "releaseDate":  "2025-10-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8825334/"
+    },
+    {
+        "id":  "8887334",
+        "name":  "Neon Raptor Brewing Co. Ninth Birthday Impy",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial porter och stout",
+        "country":  "Storbritannien",
+        "abv":  10,
+        "volumeMl":  440,
+        "priceSek":  142.8,
+        "releaseDate":  "2025-10-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8887334/"
+    },
+    {
+        "id":  "8831334",
+        "name":  "Neon Raptor Brewing Co. Ninth Birthday Sour",
+        "producer":  "Neon Raptor",
+        "style":  "Övrig syrlig öl",
+        "country":  "Storbritannien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  130.6,
+        "releaseDate":  "2025-10-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8831334/"
+    },
+    {
+        "id":  "8873801",
+        "name":  "The Ale Apothecary Be Still",
+        "producer":  "The Ale Apothecary",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  8.8,
+        "volumeMl":  750,
+        "priceSek":  341.3,
+        "releaseDate":  "2025-01-27",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-ale-apothecary-8873801/"
+    },
+    {
+        "id":  "8809001",
+        "name":  "The Ale Apothecary El Cuatro",
+        "producer":  "The Ale Apothecary",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  10,
+        "volumeMl":  750,
+        "priceSek":  330.6,
+        "releaseDate":  "2025-01-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-ale-apothecary-8809001/"
+    },
+    {
+        "id":  "8805701",
+        "name":  "The Ale Apothecary Mr. Cozy",
+        "producer":  "The Ale Apothecary",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  4.6,
+        "volumeMl":  750,
+        "priceSek":  280.7,
+        "releaseDate":  "2025-01-13",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-ale-apothecary-8805701/"
+    },
+    {
+        "id":  "8817201",
+        "name":  "The Ale Apothecary Partly Cloudy",
+        "producer":  "The Ale Apothecary",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  7.5,
+        "volumeMl":  750,
+        "priceSek":  288.1,
+        "releaseDate":  "2025-01-27",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-ale-apothecary-8817201/"
+    },
+    {
+        "id":  "8849734",
+        "name":  "Drowned Lands \u0026 Alternate Ending Rye of Unusual Size",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "India pale ale (IPA)",
+        "country":  "USA",
+        "abv":  6.8,
+        "volumeMl":  473,
+        "priceSek":  119.9,
+        "releaseDate":  "2025-11-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/drowned-lands-alternate-ending-8849734/"
+    },
+    {
+        "id":  "8884503",
+        "name":  "Drowned Lands Brewery Double Barrel Imperial Stout | Volume 5",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  10.5,
+        "volumeMl":  500,
+        "priceSek":  499.9,
+        "releaseDate":  "2025-12-09",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/drowned-lands-brewery-8884503/"
+    },
+    {
+        "id":  "8886409",
+        "name":  "Drowned Lands Brewery Mixpack #3",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "Mixpack öl",
+        "country":  "USA",
+        "abv":  6.5,
+        "volumeMl":  1892,
+        "priceSek":  366.8,
+        "releaseDate":  "2025-11-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/drowned-lands-brewery-8886409/"
+    },
+    {
+        "id":  "8832709",
+        "name":  "Drowned Lands Mix 2 Specialöl",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "Mixpack öl",
+        "country":  "USA",
+        "abv":  8.8,
+        "volumeMl":  1892,
+        "priceSek":  400.6,
+        "releaseDate":  "2025-06-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/drowned-lands-mix-2-8832709/"
+    },
+    {
+        "id":  "8898209",
+        "name":  "The Drowned Lands Brewery - Mixpack #1 Specialöl",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "Mixpack öl",
+        "country":  "USA",
+        "abv":  7,
+        "volumeMl":  1892,
+        "priceSek":  362,
+        "releaseDate":  "2025-06-03",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-drowned-lands-brewery-mixpack-1-8898209/"
+    },
+    {
+        "id":  "1011334",
+        "name":  "The Drowned Lands Brewery Fern",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  6.5,
+        "volumeMl":  473,
+        "priceSek":  81.7,
+        "releaseDate":  "2025-12-05",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-drowned-lands-brewery-1011334/"
     }
 ]
