@@ -144,22 +144,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-5452702/"
     },
     {
-        "id":  "8894001",
-        "name":  "Bellwoods Brewery Intermodal",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  7.5,
-        "volumeMl":  500,
-        "priceSek":  188.7,
-        "releaseDate":  "2025-12-17",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
-    },
-    {
         "id":  "8852201",
         "name":  "Bellwoods Brewery Intermodal",
         "producer":  "Bellwoods Brewery",
@@ -174,6 +158,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
+    },
+    {
+        "id":  "8894001",
+        "name":  "Bellwoods Brewery Intermodal",
+        "producer":  "Bellwoods Brewery",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  7.5,
+        "volumeMl":  500,
+        "priceSek":  188.7,
+        "releaseDate":  "2025-12-17",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
     },
     {
         "id":  "8810001",
@@ -1038,6 +1038,742 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-ale-apothecary-8817201/"
+    },
+    {
+        "id":  "8898434",
+        "name":  "The Bruery  Then We Scoop",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  8.9,
+        "volumeMl":  473,
+        "priceSek":  151,
+        "releaseDate":  "2025-12-02",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8898434/"
+    },
+    {
+        "id":  "8871302",
+        "name":  "The Bruery / Bottle Logic Brewing Critical Alignment",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  14.1,
+        "volumeMl":  375,
+        "priceSek":  280,
+        "releaseDate":  "2025-11-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-bottle-logic-brewing-8871302/"
+    },
+    {
+        "id":  "8866003",
+        "name":  "The Bruery 10 Lords-A-Leaping",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  10.8,
+        "volumeMl":  375,
+        "priceSek":  193.8,
+        "releaseDate":  "2025-08-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8866003/"
+    },
+    {
+        "id":  "8877103",
+        "name":  "The Bruery 11 Pipers Piping",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  11,
+        "volumeMl":  355,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-08-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8877103/"
+    },
+    {
+        "id":  "8887703",
+        "name":  "The Bruery 12 Drummers drumming",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  12,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-08-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8887703/"
+    },
+    {
+        "id":  "8807503",
+        "name":  "The Bruery 2 Turtle Doves",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  10.6,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-01",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8807503/"
+    },
+    {
+        "id":  "8880103",
+        "name":  "The Bruery 3 French Hens",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  10,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-01",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8880103/"
+    },
+    {
+        "id":  "8896403",
+        "name":  "The Bruery 4 Calling Birds",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  11.1,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-01",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8896403/"
+    },
+    {
+        "id":  "8818203",
+        "name":  "The Bruery 5 Golden Rings",
+        "producer":  "The Bruery",
+        "style":  "Ljus stark belgisk ale/Trippel",
+        "country":  "USA",
+        "abv":  11.7,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8818203/"
+    },
+    {
+        "id":  "8880003",
+        "name":  "The Bruery 6 Geese-A-Laying1",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  11.7,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8880003/"
+    },
+    {
+        "id":  "8891803",
+        "name":  "The Bruery 7 Swans-A-Swimming",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  9.1,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8891803/"
+    },
+    {
+        "id":  "8843803",
+        "name":  "The Bruery 8 Maids-A-Milking",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  11.3,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8843803/"
+    },
+    {
+        "id":  "8828003",
+        "name":  "The Bruery 9 Ladies Dancing",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  11,
+        "volumeMl":  355,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-08-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8828003/"
+    },
+    {
+        "id":  "8895634",
+        "name":  "The Bruery Add the Drizzle",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  9.3,
+        "volumeMl":  473,
+        "priceSek":  151,
+        "releaseDate":  "2025-12-02",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8895634/"
+    },
+    {
+        "id":  "8882403",
+        "name":  "The Bruery As Far As the Rye Can See",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  18.7,
+        "volumeMl":  375,
+        "priceSek":  289.9,
+        "releaseDate":  "2025-10-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8882403/"
+    },
+    {
+        "id":  "8881601",
+        "name":  "The Bruery Black Tuesday",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.5,
+        "volumeMl":  750,
+        "priceSek":  599,
+        "releaseDate":  "2025-11-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8881601/"
+    },
+    {
+        "id":  "8879503",
+        "name":  "The Bruery Blueberry Brueonico",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.5,
+        "volumeMl":  375,
+        "priceSek":  349.8,
+        "releaseDate":  "2025-11-19",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8879503/"
+    },
+    {
+        "id":  "8874403",
+        "name":  "The Bruery Bourbon Barrel-Aged Three\u0027s CoCompany",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  13.7,
+        "volumeMl":  375,
+        "priceSek":  279.9,
+        "releaseDate":  "2025-10-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8874403/"
+    },
+    {
+        "id":  "8844501",
+        "name":  "The Bruery Chocolate Rain",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.1,
+        "volumeMl":  750,
+        "priceSek":  597.3,
+        "releaseDate":  "2025-11-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8844501/"
+    },
+    {
+        "id":  "8844401",
+        "name":  "The Bruery Dentelle",
+        "producer":  "The Bruery",
+        "style":  "Old ale",
+        "country":  "USA",
+        "abv":  17.9,
+        "volumeMl":  750,
+        "priceSek":  447.2,
+        "releaseDate":  "2025-11-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8844401/"
+    },
+    {
+        "id":  "8873101",
+        "name":  "The Bruery Heavenly Blis",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  20.5,
+        "volumeMl":  750,
+        "priceSek":  459.9,
+        "releaseDate":  "2025-11-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8873101/"
+    },
+    {
+        "id":  "8838901",
+        "name":  "The Bruery Hoarder\u0027s Cuvée",
+        "producer":  "The Bruery",
+        "style":  "Strong ale",
+        "country":  "USA",
+        "abv":  16.9,
+        "volumeMl":  750,
+        "priceSek":  499.9,
+        "releaseDate":  "2025-11-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8838901/"
+    },
+    {
+        "id":  "8878703",
+        "name":  "The Bruery Hoarders Cuvée #2",
+        "producer":  "The Bruery",
+        "style":  "Strong ale",
+        "country":  "USA",
+        "abv":  15.3,
+        "volumeMl":  375,
+        "priceSek":  327.9,
+        "releaseDate":  "2025-11-25",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8878703/"
+    },
+    {
+        "id":  "8871202",
+        "name":  "The Bruery La Grappe Luxe",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  16.5,
+        "volumeMl":  375,
+        "priceSek":  278.2,
+        "releaseDate":  "2025-11-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8871202/"
+    },
+    {
+        "id":  "8811203",
+        "name":  "The Bruery Meubles Blender\u0027s Choice",
+        "producer":  "The Bruery",
+        "style":  "Old ale",
+        "country":  "USA",
+        "abv":  16.7,
+        "volumeMl":  375,
+        "priceSek":  342.9,
+        "releaseDate":  "2025-11-19",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8811203/"
+    },
+    {
+        "id":  "8814603",
+        "name":  "The Bruery One \u0026 Dunn Imperial Grand Reserve",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  18.7,
+        "volumeMl":  375,
+        "priceSek":  392,
+        "releaseDate":  "2025-11-19",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8814603/"
+    },
+    {
+        "id":  "8836203",
+        "name":  "The Bruery One \u0026 Dunn: Bourbon Barrel-Aged",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  13.9,
+        "volumeMl":  375,
+        "priceSek":  264.9,
+        "releaseDate":  "2025-11-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8836203/"
+    },
+    {
+        "id":  "8822703",
+        "name":  "The Bruery Partridge In A Pear Tree",
+        "producer":  "The Bruery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  11.3,
+        "volumeMl":  375,
+        "priceSek":  193.9,
+        "releaseDate":  "2025-04-01",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8822703/"
+    },
+    {
+        "id":  "8849101",
+        "name":  "The Bruery Pass A good time",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  16.7,
+        "volumeMl":  750,
+        "priceSek":  356.9,
+        "releaseDate":  "2025-11-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8849101/"
+    },
+    {
+        "id":  "8842401",
+        "name":  "The Bruery Peter Veeder",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  15.4,
+        "volumeMl":  750,
+        "priceSek":  579,
+        "releaseDate":  "2025-11-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8842401/"
+    },
+    {
+        "id":  "8885903",
+        "name":  "The Bruery Popular Opinion",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  15.7,
+        "volumeMl":  375,
+        "priceSek":  284.9,
+        "releaseDate":  "2025-11-25",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8885903/"
+    },
+    {
+        "id":  "8859303",
+        "name":  "The Bruery Red White And Brue",
+        "producer":  "The Bruery",
+        "style":  "Övrig veteöl",
+        "country":  "USA",
+        "abv":  12.7,
+        "volumeMl":  375,
+        "priceSek":  247.9,
+        "releaseDate":  "2025-11-25",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8859303/"
+    },
+    {
+        "id":  "8816703",
+        "name":  "The Bruery Scoop Scoop Scoop",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  17.8,
+        "volumeMl":  375,
+        "priceSek":  289.3,
+        "releaseDate":  "2025-11-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8816703/"
+    },
+    {
+        "id":  "8896802",
+        "name":  "The Bruery Stacks Reserve Blueberry",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.1,
+        "volumeMl":  375,
+        "priceSek":  355,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8896802/"
+    },
+    {
+        "id":  "8882703",
+        "name":  "The Bruery Stacks Reserve Chocobanana",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.7,
+        "volumeMl":  375,
+        "priceSek":  355.9,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8882703/"
+    },
+    {
+        "id":  "8859503",
+        "name":  "The Bruery Stacks Reserve Red Berry",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  18.9,
+        "volumeMl":  375,
+        "priceSek":  355.9,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8859503/"
+    },
+    {
+        "id":  "8851103",
+        "name":  "The Bruery Stacks Reserve: Maple",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  20.9,
+        "volumeMl":  375,
+        "priceSek":  355.9,
+        "releaseDate":  "2025-11-26",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8851103/"
+    },
+    {
+        "id":  "8808403",
+        "name":  "The Bruery Strawberry Charm\u0027d",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  8.1,
+        "volumeMl":  375,
+        "priceSek":  179.9,
+        "releaseDate":  "2025-10-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8808403/"
+    },
+    {
+        "id":  "8857301",
+        "name":  "The Bruery Terreux Annuel",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  9.7,
+        "volumeMl":  750,
+        "priceSek":  219,
+        "releaseDate":  "2024-10-14",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8857301/"
+    },
+    {
+        "id":  "8893401",
+        "name":  "The Bruery Terreux Myrtillheim",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  6.2,
+        "volumeMl":  750,
+        "priceSek":  298.9,
+        "releaseDate":  "2025-11-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8893401/"
+    },
+    {
+        "id":  "8830201",
+        "name":  "The Bruery Terreux Room for you",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  6.3,
+        "volumeMl":  750,
+        "priceSek":  199.9,
+        "releaseDate":  "2024-10-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8830201/"
+    },
+    {
+        "id":  "8832801",
+        "name":  "The Bruery Terreux Spontanaheim",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  5.5,
+        "volumeMl":  750,
+        "priceSek":  189,
+        "releaseDate":  "2024-10-07",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8832801/"
+    },
+    {
+        "id":  "8869201",
+        "name":  "The Bruery Terreux -Train To Beersel",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  8.4,
+        "volumeMl":  750,
+        "priceSek":  199,
+        "releaseDate":  "2024-09-16",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8869201/"
+    },
+    {
+        "id":  "8864301",
+        "name":  "The Bruery Three Chiefs Brewing - Thr3e",
+        "producer":  "The Bruery",
+        "style":  "Barley wine",
+        "country":  "USA",
+        "abv":  15.9,
+        "volumeMl":  750,
+        "priceSek":  429.9,
+        "releaseDate":  "2025-11-19",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8864301/"
+    },
+    {
+        "id":  "8869401",
+        "name":  "The Bruery Tranquil Moonlight",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  21.5,
+        "volumeMl":  750,
+        "priceSek":  481.9,
+        "releaseDate":  "2025-11-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8869401/"
+    },
+    {
+        "id":  "8872403",
+        "name":  "The Bruery Werewolves of Ecuador",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  14.7,
+        "volumeMl":  375,
+        "priceSek":  329.9,
+        "releaseDate":  "2025-10-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8872403/"
     },
     {
         "id":  "8849734",
