@@ -96,22 +96,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8843701/"
     },
     {
-        "id":  "1013101",
-        "name":  "Bellwoods Brewery Double Ba Boyd",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Imperial porter och stout",
-        "country":  "Kanada",
-        "abv":  11.5,
-        "volumeMl":  500,
-        "priceSek":  129,
-        "releaseDate":  "2026-01-30",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-1013101/"
-    },
-    {
         "id":  "8805902",
         "name":  "Bellwoods Brewery Grandma",
         "producer":  "Bellwoods Brewery",
@@ -144,22 +128,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-5452702/"
     },
     {
-        "id":  "8852201",
-        "name":  "Bellwoods Brewery Intermodal",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  6.5,
-        "volumeMl":  500,
-        "priceSek":  160.1,
-        "releaseDate":  "2024-07-29",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
-    },
-    {
         "id":  "8894001",
         "name":  "Bellwoods Brewery Intermodal",
         "producer":  "Bellwoods Brewery",
@@ -174,6 +142,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
+    },
+    {
+        "id":  "8852201",
+        "name":  "Bellwoods Brewery Intermodal",
+        "producer":  "Bellwoods Brewery",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  6.5,
+        "volumeMl":  500,
+        "priceSek":  160.1,
+        "releaseDate":  "2024-07-29",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
     },
     {
         "id":  "8810001",
@@ -528,6 +512,38 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/burdock-brewery-8868003/"
     },
     {
+        "id":  "8842635",
+        "name":  "Burdock Brewing Rasbu",
+        "producer":  "Burdock",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  5.2,
+        "volumeMl":  355,
+        "priceSek":  89.6,
+        "releaseDate":  "2026-02-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/burdock-brewing-8842635/"
+    },
+    {
+        "id":  "8811435",
+        "name":  "Cascade Brewing Honey Ginger Lime",
+        "producer":  "Cascade Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  6,
+        "volumeMl":  355,
+        "priceSek":  118.7,
+        "releaseDate":  "2026-02-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8811435/"
+    },
+    {
         "id":  "8846901",
         "name":  "Cascade Brewing Noyaux",
         "producer":  "Cascade Brewing",
@@ -542,6 +558,38 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8846901/"
+    },
+    {
+        "id":  "8847635",
+        "name":  "Cascade Brewing Patio Paradise",
+        "producer":  "Cascade Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  5.5,
+        "volumeMl":  355,
+        "priceSek":  110.9,
+        "releaseDate":  "2026-02-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8847635/"
+    },
+    {
+        "id":  "8874635",
+        "name":  "Cascade Brewing Rose City Sour",
+        "producer":  "Cascade Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  5.7,
+        "volumeMl":  355,
+        "priceSek":  111,
+        "releaseDate":  "2026-02-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8874635/"
     },
     {
         "id":  "8876634",
@@ -622,6 +670,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8813934/"
+    },
+    {
+        "id":  "8881434",
+        "name":  "Funky Fauna Artisan Ales Sunriver Brewing Unholy River",
+        "producer":  "Funky Fauna Artisan Ales",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  5.6,
+        "volumeMl":  473,
+        "priceSek":  121,
+        "releaseDate":  "2026-02-18",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/funky-fauna-artisan-ales-sunriver-brewing-8881434/"
     },
     {
         "id":  "8850601",
@@ -912,38 +976,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-mixpack-3-8832909/"
     },
     {
-        "id":  "8810434",
-        "name":  "Neon Raptor Brewing \u0026 Amity Brew Stomping Ground",
-        "producer":  "Neon Raptor",
-        "style":  "Imperial/Dubbel IPA",
-        "country":  "Storbritannien",
-        "abv":  8,
-        "volumeMl":  440,
-        "priceSek":  121.9,
-        "releaseDate":  "2025-10-13",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-amity-brew-8810434/"
-    },
-    {
-        "id":  "8825334",
-        "name":  "Neon Raptor Brewing Co Ninth Birthday DIPA",
-        "producer":  "Neon Raptor",
-        "style":  "Imperial/Dubbel IPA",
-        "country":  "Storbritannien",
-        "abv":  8,
-        "volumeMl":  440,
-        "priceSek":  120.9,
-        "releaseDate":  "2025-10-07",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8825334/"
-    },
-    {
         "id":  "8887334",
         "name":  "Neon Raptor Brewing Co. Ninth Birthday Impy",
         "producer":  "Neon Raptor",
@@ -958,22 +990,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8887334/"
-    },
-    {
-        "id":  "8831334",
-        "name":  "Neon Raptor Brewing Co. Ninth Birthday Sour",
-        "producer":  "Neon Raptor",
-        "style":  "Övrig syrlig öl",
-        "country":  "Storbritannien",
-        "abv":  8,
-        "volumeMl":  440,
-        "priceSek":  130.6,
-        "releaseDate":  "2025-10-07",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-8831334/"
     },
     {
         "id":  "8873801",
@@ -1870,5 +1886,85 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-drowned-lands-brewery-1011334/"
+    },
+    {
+        "id":  "8831509",
+        "name":  "Tilted Barn Brewery - Mixpack #1 4-pack",
+        "producer":  "Tilted Barn Brewery",
+        "style":  "Mixpack öl",
+        "country":  "USA",
+        "abv":  6.1,
+        "volumeMl":  1892,
+        "priceSek":  379.2,
+        "releaseDate":  "2026-02-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-mixpack-1-8831509/"
+    },
+    {
+        "id":  "8823034",
+        "name":  "Tilted Barn Brewery Cactus",
+        "producer":  "Tilted Barn Brewery",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  7.8,
+        "volumeMl":  473,
+        "priceSek":  138.7,
+        "releaseDate":  "2026-02-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-8823034/"
+    },
+    {
+        "id":  "8823534",
+        "name":  "Tilted Barn Brewery Fresh Hop Little Field",
+        "producer":  "Tilted Barn Brewery",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  6.3,
+        "volumeMl":  473,
+        "priceSek":  127.9,
+        "releaseDate":  "2026-02-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-8823534/"
+    },
+    {
+        "id":  "8831434",
+        "name":  "Tilted Barn Brewery Holly",
+        "producer":  "Tilted Barn Brewery",
+        "style":  "Mörk stark belgisk ale",
+        "country":  "USA",
+        "abv":  9,
+        "volumeMl":  473,
+        "priceSek":  130.9,
+        "releaseDate":  "2026-02-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-8831434/"
+    },
+    {
+        "id":  "8823934",
+        "name":  "Tilted Barn Brewery The Chosen On",
+        "producer":  "Tilted Barn Brewery",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  8,
+        "volumeMl":  473,
+        "priceSek":  139.9,
+        "releaseDate":  "2026-02-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-8823934/"
     }
 ]
