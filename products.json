@@ -7,7 +7,7 @@
         "country":  "Kanada",
         "abv":  8,
         "volumeMl":  473,
-        "priceSek":  130.9,
+        "priceSek":  131,
         "releaseDate":  "2025-12-03",
         "tags":  [
 
@@ -23,7 +23,7 @@
         "country":  "Kanada",
         "abv":  7.1,
         "volumeMl":  500,
-        "priceSek":  159.2,
+        "priceSek":  159.3,
         "releaseDate":  "2024-09-30",
         "tags":  [
 
@@ -39,7 +39,7 @@
         "country":  "Kanada",
         "abv":  6.3,
         "volumeMl":  500,
-        "priceSek":  169.4,
+        "priceSek":  169.5,
         "releaseDate":  "2024-08-12",
         "tags":  [
 
@@ -55,7 +55,7 @@
         "country":  "Kanada",
         "abv":  7.4,
         "volumeMl":  500,
-        "priceSek":  140.1,
+        "priceSek":  140.2,
         "releaseDate":  "2023-09-26",
         "tags":  [
 
@@ -71,7 +71,7 @@
         "country":  "Kanada",
         "abv":  7,
         "volumeMl":  500,
-        "priceSek":  159.2,
+        "priceSek":  159.3,
         "releaseDate":  "2024-04-02",
         "tags":  [
 
@@ -87,7 +87,7 @@
         "country":  "Kanada",
         "abv":  7.1,
         "volumeMl":  500,
-        "priceSek":  158.2,
+        "priceSek":  158.3,
         "releaseDate":  "2025-02-03",
         "tags":  [
 
@@ -103,7 +103,7 @@
         "country":  "Kanada",
         "abv":  7.9,
         "volumeMl":  500,
-        "priceSek":  156.2,
+        "priceSek":  156.3,
         "releaseDate":  "2024-12-30",
         "tags":  [
 
@@ -119,29 +119,13 @@
         "country":  "Kanada",
         "abv":  7.7,
         "volumeMl":  500,
-        "priceSek":  130.1,
+        "priceSek":  130.2,
         "releaseDate":  "2023-09-26",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-5452702/"
-    },
-    {
-        "id":  "8894001",
-        "name":  "Bellwoods Brewery Intermodal",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  7.5,
-        "volumeMl":  500,
-        "priceSek":  188.7,
-        "releaseDate":  "2025-12-17",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
     },
     {
         "id":  "8852201",
@@ -151,13 +135,29 @@
         "country":  "Kanada",
         "abv":  6.5,
         "volumeMl":  500,
-        "priceSek":  160.1,
+        "priceSek":  160.3,
         "releaseDate":  "2024-07-29",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
+    },
+    {
+        "id":  "8894001",
+        "name":  "Bellwoods Brewery Intermodal",
+        "producer":  "Bellwoods Brewery",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  7.5,
+        "volumeMl":  500,
+        "priceSek":  189.2,
+        "releaseDate":  "2025-12-17",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
     },
     {
         "id":  "8810001",
@@ -167,7 +167,7 @@
         "country":  "Kanada",
         "abv":  6.2,
         "volumeMl":  500,
-        "priceSek":  179.3,
+        "priceSek":  179.4,
         "releaseDate":  "2024-09-23",
         "tags":  [
 
@@ -183,7 +183,7 @@
         "country":  "Kanada",
         "abv":  6.6,
         "volumeMl":  500,
-        "priceSek":  178.2,
+        "priceSek":  178.3,
         "releaseDate":  "2024-09-30",
         "tags":  [
 
@@ -215,7 +215,7 @@
         "country":  "Kanada",
         "abv":  6,
         "volumeMl":  1892,
-        "priceSek":  358.8,
+        "priceSek":  367.2,
         "releaseDate":  "2025-12-10",
         "tags":  [
 
@@ -231,7 +231,7 @@
         "country":  "Kanada",
         "abv":  6,
         "volumeMl":  473,
-        "priceSek":  114.6,
+        "priceSek":  114.7,
         "releaseDate":  "2025-12-10",
         "tags":  [
 
@@ -256,22 +256,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8814834/"
     },
     {
-        "id":  "8892115",
-        "name":  "Bellwoods Brewery Skeleton Key",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Imperial porter och stout",
-        "country":  "Kanada",
-        "abv":  11.1,
-        "volumeMl":  355,
-        "priceSek":  191.2,
-        "releaseDate":  "2025-04-29",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8892115/"
-    },
-    {
         "id":  "8825901",
         "name":  "Bellwoods Brewery Vines (Chambourcin)",
         "producer":  "Bellwoods Brewery",
@@ -279,7 +263,7 @@
         "country":  "Kanada",
         "abv":  8.5,
         "volumeMl":  500,
-        "priceSek":  169.3,
+        "priceSek":  169.4,
         "releaseDate":  "2024-09-23",
         "tags":  [
 
@@ -295,7 +279,7 @@
         "country":  "Kanada",
         "abv":  8.4,
         "volumeMl":  500,
-        "priceSek":  188.2,
+        "priceSek":  188.4,
         "releaseDate":  "2024-03-25",
         "tags":  [
 
@@ -311,7 +295,7 @@
         "country":  "Kanada",
         "abv":  8.5,
         "volumeMl":  500,
-        "priceSek":  168,
+        "priceSek":  168.1,
         "releaseDate":  "2024-09-30",
         "tags":  [
 
@@ -327,7 +311,7 @@
         "country":  "Kanada",
         "abv":  5.4,
         "volumeMl":  500,
-        "priceSek":  159.2,
+        "priceSek":  159.3,
         "releaseDate":  "2024-09-23",
         "tags":  [
 
@@ -343,7 +327,7 @@
         "country":  "Kanada",
         "abv":  6.1,
         "volumeMl":  500,
-        "priceSek":  179,
+        "priceSek":  179.1,
         "releaseDate":  "2025-12-03",
         "tags":  [
 
@@ -359,7 +343,7 @@
         "country":  "Belgien",
         "abv":  6.7,
         "volumeMl":  750,
-        "priceSek":  230.9,
+        "priceSek":  231.1,
         "releaseDate":  "2025-08-26",
         "tags":  [
 
@@ -375,7 +359,7 @@
         "country":  "Belgien",
         "abv":  6,
         "volumeMl":  750,
-        "priceSek":  270,
+        "priceSek":  270.2,
         "releaseDate":  "2025-03-12",
         "tags":  [
 
@@ -391,7 +375,7 @@
         "country":  "Belgien",
         "abv":  6.9,
         "volumeMl":  750,
-        "priceSek":  297,
+        "priceSek":  297.3,
         "releaseDate":  "2025-09-09",
         "tags":  [
 
@@ -407,7 +391,7 @@
         "country":  "Belgien",
         "abv":  6.7,
         "volumeMl":  375,
-        "priceSek":  159.6,
+        "priceSek":  159.7,
         "releaseDate":  "2025-08-26",
         "tags":  [
 
@@ -423,7 +407,7 @@
         "country":  "Belgien",
         "abv":  7.3,
         "volumeMl":  750,
-        "priceSek":  300.2,
+        "priceSek":  300.4,
         "releaseDate":  "2025-09-02",
         "tags":  [
 
@@ -439,29 +423,13 @@
         "country":  "Belgien",
         "abv":  8.3,
         "volumeMl":  750,
-        "priceSek":  285.2,
+        "priceSek":  285.5,
         "releaseDate":  "2025-09-03",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8863901/"
-    },
-    {
-        "id":  "8890701",
-        "name":  "Boerenerf Zomerkriek",
-        "producer":  "Boerenerf",
-        "style":  "Frukt- och bärlambic",
-        "country":  "Belgien",
-        "abv":  6.8,
-        "volumeMl":  750,
-        "priceSek":  271,
-        "releaseDate":  "2025-09-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8890701/"
     },
     {
         "id":  "8871809",
@@ -471,7 +439,7 @@
         "country":  "Kanada",
         "abv":  6.5,
         "volumeMl":  1892,
-        "priceSek":  354.8,
+        "priceSek":  355.6,
         "releaseDate":  "2025-12-09",
         "tags":  [
 
@@ -487,7 +455,7 @@
         "country":  "Kanada",
         "abv":  5.3,
         "volumeMl":  1420,
-        "priceSek":  290.8,
+        "priceSek":  291.6,
         "releaseDate":  "2025-12-16",
         "tags":  [
 
@@ -503,7 +471,7 @@
         "country":  "Kanada",
         "abv":  7.9,
         "volumeMl":  375,
-        "priceSek":  186.9,
+        "priceSek":  187.2,
         "releaseDate":  "2025-12-17",
         "tags":  [
 
@@ -551,7 +519,7 @@
         "country":  "USA",
         "abv":  8.3,
         "volumeMl":  750,
-        "priceSek":  249.5,
+        "priceSek":  249.7,
         "releaseDate":  "2025-09-23",
         "tags":  [
 
@@ -599,7 +567,7 @@
         "country":  "USA",
         "abv":  8.5,
         "volumeMl":  473,
-        "priceSek":  129.9,
+        "priceSek":  130,
         "releaseDate":  "2025-12-09",
         "tags":  [
 
@@ -615,7 +583,7 @@
         "country":  "USA",
         "abv":  8,
         "volumeMl":  750,
-        "priceSek":  276.9,
+        "priceSek":  278.4,
         "releaseDate":  "2025-08-04",
         "tags":  [
 
@@ -631,7 +599,7 @@
         "country":  "USA",
         "abv":  8.2,
         "volumeMl":  473,
-        "priceSek":  143.9,
+        "priceSek":  144,
         "releaseDate":  "2025-11-11",
         "tags":  [
 
@@ -647,7 +615,7 @@
         "country":  "USA",
         "abv":  8,
         "volumeMl":  473,
-        "priceSek":  143.9,
+        "priceSek":  144,
         "releaseDate":  "2025-11-18",
         "tags":  [
 
@@ -663,7 +631,7 @@
         "country":  "USA",
         "abv":  6.5,
         "volumeMl":  473,
-        "priceSek":  124.9,
+        "priceSek":  127,
         "releaseDate":  "2025-11-18",
         "tags":  [
 
@@ -688,6 +656,150 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/funky-fauna-artisan-ales-sunriver-brewing-8881434/"
     },
     {
+        "id":  "8804234",
+        "name":  "Great Notion Brewing / Humble Sea Brewing Co Slurricane",
+        "producer":  "Great Notion",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  10,
+        "volumeMl":  473,
+        "priceSek":  145.9,
+        "releaseDate":  "2026-03-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-humble-sea-brewing-co-8804234/"
+    },
+    {
+        "id":  "8876734",
+        "name":  "Great Notion Brewing Luminous 05",
+        "producer":  "Great Notion",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  5.9,
+        "volumeMl":  473,
+        "priceSek":  121.9,
+        "releaseDate":  "2026-03-03",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8876734/"
+    },
+    {
+        "id":  "8827934",
+        "name":  "Great Notion Brewing Northleft",
+        "producer":  "Great Notion",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  6.8,
+        "volumeMl":  473,
+        "priceSek":  126.9,
+        "releaseDate":  "2026-03-03",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8827934/"
+    },
+    {
+        "id":  "8830534",
+        "name":  "Great Notion Brewing Project West",
+        "producer":  "Great Notion",
+        "style":  "India pale ale (IPA)",
+        "country":  "USA",
+        "abv":  6.8,
+        "volumeMl":  473,
+        "priceSek":  136.9,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8830534/"
+    },
+    {
+        "id":  "8863834",
+        "name":  "Great Notion Brewing Super Over Ripe",
+        "producer":  "Great Notion",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  9.1,
+        "volumeMl":  473,
+        "priceSek":  145.9,
+        "releaseDate":  "2026-03-03",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8863834/"
+    },
+    {
+        "id":  "8841134",
+        "name":  "Great Notion Brewing Berry Pusher",
+        "producer":  "Great Notion Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  6.5,
+        "volumeMl":  473,
+        "priceSek":  138.7,
+        "releaseDate":  "2026-03-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8841134/"
+    },
+    {
+        "id":  "8821934",
+        "name":  "Great Notion Brewing Blueberry Muffin",
+        "producer":  "Great Notion Brewing",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  6,
+        "volumeMl":  473,
+        "priceSek":  141,
+        "releaseDate":  "2026-03-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8821934/"
+    },
+    {
+        "id":  "8824834",
+        "name":  "Great Notion Brewing Jumbo",
+        "producer":  "Great Notion Brewing",
+        "style":  "Söt porter och stout",
+        "country":  "USA",
+        "abv":  5.8,
+        "volumeMl":  473,
+        "priceSek":  121,
+        "releaseDate":  "2026-03-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8824834/"
+    },
+    {
+        "id":  "8831634",
+        "name":  "Great Notion Brewing The Soughten",
+        "producer":  "Great Notion Brewing",
+        "style":  "India pale ale (IPA)",
+        "country":  "USA",
+        "abv":  6.8,
+        "volumeMl":  473,
+        "priceSek":  131.9,
+        "releaseDate":  "2026-03-11",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8831634/"
+    },
+    {
         "id":  "8850601",
         "name":  "Kemker Kultuur Aoltbeer 01–2023",
         "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
@@ -695,7 +807,7 @@
         "country":  "Tyskland",
         "abv":  6,
         "volumeMl":  750,
-        "priceSek":  250.8,
+        "priceSek":  251,
         "releaseDate":  "2024-11-25",
         "tags":  [
 
@@ -711,7 +823,7 @@
         "country":  "Tyskland",
         "abv":  6,
         "volumeMl":  750,
-        "priceSek":  269.8,
+        "priceSek":  270.1,
         "releaseDate":  "2024-12-23",
         "tags":  [
 
@@ -775,7 +887,7 @@
         "country":  "Spanien",
         "abv":  8,
         "volumeMl":  440,
-        "priceSek":  127.9,
+        "priceSek":  128,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -791,7 +903,7 @@
         "country":  "Spanien",
         "abv":  8,
         "volumeMl":  473,
-        "priceSek":  127.9,
+        "priceSek":  128,
         "releaseDate":  "2025-12-17",
         "tags":  [
 
@@ -807,7 +919,7 @@
         "country":  "Spanien",
         "abv":  8.2,
         "volumeMl":  440,
-        "priceSek":  127.9,
+        "priceSek":  128,
         "releaseDate":  "2025-12-02",
         "tags":  [
 
@@ -823,7 +935,7 @@
         "country":  "Spanien",
         "abv":  7.5,
         "volumeMl":  440,
-        "priceSek":  124.9,
+        "priceSek":  125,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -839,7 +951,7 @@
         "country":  "USA",
         "abv":  9.2,
         "volumeMl":  440,
-        "priceSek":  131.9,
+        "priceSek":  132,
         "releaseDate":  "2025-12-02",
         "tags":  [
 
@@ -855,7 +967,7 @@
         "country":  "Spanien",
         "abv":  12,
         "volumeMl":  330,
-        "priceSek":  130.7,
+        "priceSek":  130.8,
         "releaseDate":  "2025-12-30",
         "tags":  [
 
@@ -871,7 +983,7 @@
         "country":  "Spanien",
         "abv":  11,
         "volumeMl":  330,
-        "priceSek":  145.3,
+        "priceSek":  145.5,
         "releaseDate":  "2025-12-16",
         "tags":  [
 
@@ -887,7 +999,7 @@
         "country":  "Spanien",
         "abv":  10,
         "volumeMl":  330,
-        "priceSek":  130.4,
+        "priceSek":  130.5,
         "releaseDate":  "2025-12-23",
         "tags":  [
 
@@ -903,7 +1015,7 @@
         "country":  "Spanien",
         "abv":  10.5,
         "volumeMl":  440,
-        "priceSek":  150.9,
+        "priceSek":  151,
         "releaseDate":  "2025-12-23",
         "tags":  [
 
@@ -919,7 +1031,7 @@
         "country":  "Spanien",
         "abv":  11,
         "volumeMl":  330,
-        "priceSek":  142.3,
+        "priceSek":  142.5,
         "releaseDate":  "2025-12-16",
         "tags":  [
 
@@ -935,7 +1047,7 @@
         "country":  "Spanien",
         "abv":  9,
         "volumeMl":  440,
-        "priceSek":  142.8,
+        "priceSek":  142.9,
         "releaseDate":  "2025-12-30",
         "tags":  [
 
@@ -951,7 +1063,7 @@
         "country":  "Spanien",
         "abv":  5.9,
         "volumeMl":  750,
-        "priceSek":  179.9,
+        "priceSek":  180.1,
         "releaseDate":  "2025-02-17",
         "tags":  [
 
@@ -967,13 +1079,93 @@
         "country":  "Storbritannien",
         "abv":  5.8,
         "volumeMl":  1760,
-        "priceSek":  300,
+        "priceSek":  300.4,
         "releaseDate":  "2025-10-14",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-mixpack-3-8832909/"
+    },
+    {
+        "id":  "8876334",
+        "name":  "Neon Raptor Brewing Centaur Army",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial porter och stout",
+        "country":  "Storbritannien",
+        "abv":  12,
+        "volumeMl":  440,
+        "priceSek":  151,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-8876334/"
+    },
+    {
+        "id":  "8808734",
+        "name":  "Neon Raptor Brewing Centaur Army White",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial porter och stout",
+        "country":  "Storbritannien",
+        "abv":  12,
+        "volumeMl":  440,
+        "priceSek":  151,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-8808734/"
+    },
+    {
+        "id":  "8820834",
+        "name":  "Neon Raptor Brewing Co. Arpus Brewing Co. Apocalypse",
+        "producer":  "Neon Raptor",
+        "style":  "Övrig syrlig öl",
+        "country":  "Storbritannien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  145.1,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-arpus-brewing-co-8820834/"
+    },
+    {
+        "id":  "8833634",
+        "name":  "Neon Raptor Brewing Co. Brewski Balderdash",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial porter och stout",
+        "country":  "Storbritannien",
+        "abv":  12,
+        "volumeMl":  440,
+        "priceSek":  151.1,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-brewski-8833634/"
+    },
+    {
+        "id":  "8822234",
+        "name":  "Neon Raptor Brewing Co. CoolHead Brew Cyberspace",
+        "producer":  "Neon Raptor",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "Storbritannien",
+        "abv":  8,
+        "volumeMl":  440,
+        "priceSek":  126,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-coolhead-brew-8822234/"
     },
     {
         "id":  "8887334",
@@ -983,7 +1175,7 @@
         "country":  "Storbritannien",
         "abv":  10,
         "volumeMl":  440,
-        "priceSek":  142.8,
+        "priceSek":  142,
         "releaseDate":  "2025-10-07",
         "tags":  [
 
@@ -999,7 +1191,7 @@
         "country":  "USA",
         "abv":  8.8,
         "volumeMl":  750,
-        "priceSek":  341.3,
+        "priceSek":  341.6,
         "releaseDate":  "2025-01-27",
         "tags":  [
 
@@ -1015,7 +1207,7 @@
         "country":  "USA",
         "abv":  10,
         "volumeMl":  750,
-        "priceSek":  330.6,
+        "priceSek":  330.8,
         "releaseDate":  "2025-01-07",
         "tags":  [
 
@@ -1031,7 +1223,7 @@
         "country":  "USA",
         "abv":  4.6,
         "volumeMl":  750,
-        "priceSek":  280.7,
+        "priceSek":  280.9,
         "releaseDate":  "2025-01-13",
         "tags":  [
 
@@ -1047,7 +1239,7 @@
         "country":  "USA",
         "abv":  7.5,
         "volumeMl":  750,
-        "priceSek":  288.1,
+        "priceSek":  288.3,
         "releaseDate":  "2025-01-27",
         "tags":  [
 
@@ -1063,13 +1255,29 @@
         "country":  "USA",
         "abv":  8.9,
         "volumeMl":  473,
-        "priceSek":  151,
+        "priceSek":  151.1,
         "releaseDate":  "2025-12-02",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8898434/"
+    },
+    {
+        "id":  "8857403",
+        "name":  "The Bruery  We All Scream",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  15.1,
+        "volumeMl":  375,
+        "priceSek":  298.3,
+        "releaseDate":  "2026-02-24",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8857403/"
     },
     {
         "id":  "8871302",
@@ -1079,7 +1287,7 @@
         "country":  "USA",
         "abv":  14.1,
         "volumeMl":  375,
-        "priceSek":  280,
+        "priceSek":  280.9,
         "releaseDate":  "2025-11-10",
         "tags":  [
 
@@ -1095,7 +1303,7 @@
         "country":  "USA",
         "abv":  10.8,
         "volumeMl":  375,
-        "priceSek":  193.8,
+        "priceSek":  194.5,
         "releaseDate":  "2025-08-04",
         "tags":  [
 
@@ -1111,7 +1319,7 @@
         "country":  "USA",
         "abv":  11,
         "volumeMl":  355,
-        "priceSek":  193.9,
+        "priceSek":  194.5,
         "releaseDate":  "2025-08-04",
         "tags":  [
 
@@ -1127,7 +1335,7 @@
         "country":  "USA",
         "abv":  12,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.6,
         "releaseDate":  "2025-08-04",
         "tags":  [
 
@@ -1143,7 +1351,7 @@
         "country":  "USA",
         "abv":  10.6,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-01",
         "tags":  [
 
@@ -1159,7 +1367,7 @@
         "country":  "USA",
         "abv":  10,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-01",
         "tags":  [
 
@@ -1175,7 +1383,7 @@
         "country":  "USA",
         "abv":  11.1,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-01",
         "tags":  [
 
@@ -1191,7 +1399,7 @@
         "country":  "USA",
         "abv":  11.7,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-08",
         "tags":  [
 
@@ -1207,7 +1415,7 @@
         "country":  "USA",
         "abv":  11.7,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-08",
         "tags":  [
 
@@ -1223,7 +1431,7 @@
         "country":  "USA",
         "abv":  9.1,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194.1,
         "releaseDate":  "2025-04-08",
         "tags":  [
 
@@ -1239,7 +1447,7 @@
         "country":  "USA",
         "abv":  11.3,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194,
         "releaseDate":  "2025-04-08",
         "tags":  [
 
@@ -1255,7 +1463,7 @@
         "country":  "USA",
         "abv":  11,
         "volumeMl":  355,
-        "priceSek":  193.9,
+        "priceSek":  194.5,
         "releaseDate":  "2025-08-04",
         "tags":  [
 
@@ -1271,13 +1479,29 @@
         "country":  "USA",
         "abv":  9.3,
         "volumeMl":  473,
-        "priceSek":  151,
+        "priceSek":  151.2,
         "releaseDate":  "2025-12-02",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8895634/"
+    },
+    {
+        "id":  "8839203",
+        "name":  "The Bruery Amburana Noir",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  20.7,
+        "volumeMl":  375,
+        "priceSek":  343.9,
+        "releaseDate":  "2026-03-10",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8839203/"
     },
     {
         "id":  "8882403",
@@ -1287,7 +1511,7 @@
         "country":  "USA",
         "abv":  18.7,
         "volumeMl":  375,
-        "priceSek":  289.9,
+        "priceSek":  290.1,
         "releaseDate":  "2025-10-28",
         "tags":  [
 
@@ -1296,20 +1520,36 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8882403/"
     },
     {
-        "id":  "8881601",
-        "name":  "The Bruery Black Tuesday",
+        "id":  "8858001",
+        "name":  "The Bruery BirneSnap",
         "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
+        "style":  "Övrig veteöl",
         "country":  "USA",
-        "abv":  19.5,
+        "abv":  14.1,
         "volumeMl":  750,
-        "priceSek":  599,
-        "releaseDate":  "2025-11-12",
+        "priceSek":  389.4,
+        "releaseDate":  "2026-03-11",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8881601/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8858001/"
+    },
+    {
+        "id":  "8856103",
+        "name":  "The Bruery Black Tuesday Blender\u0027s Choice",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.9,
+        "volumeMl":  375,
+        "priceSek":  341.3,
+        "releaseDate":  "2026-03-03",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8856103/"
     },
     {
         "id":  "8879503",
@@ -1319,7 +1559,7 @@
         "country":  "USA",
         "abv":  19.5,
         "volumeMl":  375,
-        "priceSek":  349.8,
+        "priceSek":  350.1,
         "releaseDate":  "2025-11-19",
         "tags":  [
 
@@ -1328,84 +1568,36 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8879503/"
     },
     {
-        "id":  "8874403",
-        "name":  "The Bruery Bourbon Barrel-Aged Three\u0027s CoCompany",
+        "id":  "8889503",
+        "name":  "The Bruery Coffee Is Life",
         "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
+        "style":  "Barley wine",
         "country":  "USA",
-        "abv":  13.7,
+        "abv":  14.3,
         "volumeMl":  375,
-        "priceSek":  279.9,
-        "releaseDate":  "2025-10-28",
+        "priceSek":  279.3,
+        "releaseDate":  "2026-02-25",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8874403/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8889503/"
     },
     {
-        "id":  "8844501",
-        "name":  "The Bruery Chocolate Rain",
+        "id":  "8867403",
+        "name":  "The Bruery Crush the Pint",
         "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
+        "style":  "Övrig syrlig öl",
         "country":  "USA",
-        "abv":  19.1,
-        "volumeMl":  750,
-        "priceSek":  597.3,
-        "releaseDate":  "2025-11-12",
+        "abv":  5.9,
+        "volumeMl":  375,
+        "priceSek":  289.3,
+        "releaseDate":  "2026-02-24",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8844501/"
-    },
-    {
-        "id":  "8844401",
-        "name":  "The Bruery Dentelle",
-        "producer":  "The Bruery",
-        "style":  "Old ale",
-        "country":  "USA",
-        "abv":  17.9,
-        "volumeMl":  750,
-        "priceSek":  447.2,
-        "releaseDate":  "2025-11-12",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8844401/"
-    },
-    {
-        "id":  "8873101",
-        "name":  "The Bruery Heavenly Blis",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  20.5,
-        "volumeMl":  750,
-        "priceSek":  459.9,
-        "releaseDate":  "2025-11-10",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8873101/"
-    },
-    {
-        "id":  "8838901",
-        "name":  "The Bruery Hoarder\u0027s Cuvée",
-        "producer":  "The Bruery",
-        "style":  "Strong ale",
-        "country":  "USA",
-        "abv":  16.9,
-        "volumeMl":  750,
-        "priceSek":  499.9,
-        "releaseDate":  "2025-11-12",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8838901/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8867403/"
     },
     {
         "id":  "8878703",
@@ -1415,7 +1607,7 @@
         "country":  "USA",
         "abv":  15.3,
         "volumeMl":  375,
-        "priceSek":  327.9,
+        "priceSek":  328.1,
         "releaseDate":  "2025-11-25",
         "tags":  [
 
@@ -1424,20 +1616,36 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8878703/"
     },
     {
-        "id":  "8871202",
-        "name":  "The Bruery La Grappe Luxe",
+        "id":  "8863603",
+        "name":  "The Bruery Honey \u0026 Dunn Apis Grand Cru",
         "producer":  "The Bruery",
         "style":  "Imperial porter och stout",
         "country":  "USA",
-        "abv":  16.5,
+        "abv":  15.9,
         "volumeMl":  375,
-        "priceSek":  278.2,
-        "releaseDate":  "2025-11-10",
+        "priceSek":  289.5,
+        "releaseDate":  "2026-02-25",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8871202/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8863603/"
+    },
+    {
+        "id":  "8849802",
+        "name":  "The Bruery Love Me Tender",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  17.6,
+        "volumeMl":  375,
+        "priceSek":  349.2,
+        "releaseDate":  "2026-02-25",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8849802/"
     },
     {
         "id":  "8811203",
@@ -1447,13 +1655,29 @@
         "country":  "USA",
         "abv":  16.7,
         "volumeMl":  375,
-        "priceSek":  342.9,
+        "priceSek":  343.2,
         "releaseDate":  "2025-11-19",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8811203/"
+    },
+    {
+        "id":  "8856601",
+        "name":  "The Bruery Midnight Frost",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  18.7,
+        "volumeMl":  750,
+        "priceSek":  398,
+        "releaseDate":  "2026-03-04",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8856601/"
     },
     {
         "id":  "8814603",
@@ -1463,29 +1687,13 @@
         "country":  "USA",
         "abv":  18.7,
         "volumeMl":  375,
-        "priceSek":  392,
+        "priceSek":  392.3,
         "releaseDate":  "2025-11-19",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8814603/"
-    },
-    {
-        "id":  "8836203",
-        "name":  "The Bruery One \u0026 Dunn: Bourbon Barrel-Aged",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  13.9,
-        "volumeMl":  375,
-        "priceSek":  264.9,
-        "releaseDate":  "2025-11-04",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8836203/"
     },
     {
         "id":  "8822703",
@@ -1495,45 +1703,13 @@
         "country":  "USA",
         "abv":  11.3,
         "volumeMl":  375,
-        "priceSek":  193.9,
+        "priceSek":  194,
         "releaseDate":  "2025-04-01",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8822703/"
-    },
-    {
-        "id":  "8849101",
-        "name":  "The Bruery Pass A good time",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  16.7,
-        "volumeMl":  750,
-        "priceSek":  356.9,
-        "releaseDate":  "2025-11-04",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8849101/"
-    },
-    {
-        "id":  "8842401",
-        "name":  "The Bruery Peter Veeder",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  15.4,
-        "volumeMl":  750,
-        "priceSek":  579,
-        "releaseDate":  "2025-11-12",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8842401/"
     },
     {
         "id":  "8885903",
@@ -1543,7 +1719,7 @@
         "country":  "USA",
         "abv":  15.7,
         "volumeMl":  375,
-        "priceSek":  284.9,
+        "priceSek":  285.1,
         "releaseDate":  "2025-11-25",
         "tags":  [
 
@@ -1559,7 +1735,7 @@
         "country":  "USA",
         "abv":  12.7,
         "volumeMl":  375,
-        "priceSek":  247.9,
+        "priceSek":  248.1,
         "releaseDate":  "2025-11-25",
         "tags":  [
 
@@ -1568,20 +1744,20 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8859303/"
     },
     {
-        "id":  "8816703",
-        "name":  "The Bruery Scoop Scoop Scoop",
+        "id":  "8869703",
+        "name":  "The Bruery Spicy Island",
         "producer":  "The Bruery",
         "style":  "Imperial porter och stout",
         "country":  "USA",
-        "abv":  17.8,
+        "abv":  16.9,
         "volumeMl":  375,
-        "priceSek":  289.3,
-        "releaseDate":  "2025-11-04",
+        "priceSek":  278.5,
+        "releaseDate":  "2026-03-10",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8816703/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8869703/"
     },
     {
         "id":  "8896802",
@@ -1591,7 +1767,7 @@
         "country":  "USA",
         "abv":  19.1,
         "volumeMl":  375,
-        "priceSek":  355,
+        "priceSek":  356.2,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -1607,7 +1783,7 @@
         "country":  "USA",
         "abv":  19.7,
         "volumeMl":  375,
-        "priceSek":  355.9,
+        "priceSek":  356.2,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -1623,7 +1799,7 @@
         "country":  "USA",
         "abv":  18.9,
         "volumeMl":  375,
-        "priceSek":  355.9,
+        "priceSek":  356.2,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -1639,7 +1815,7 @@
         "country":  "USA",
         "abv":  20.9,
         "volumeMl":  375,
-        "priceSek":  355.9,
+        "priceSek":  356.2,
         "releaseDate":  "2025-11-26",
         "tags":  [
 
@@ -1655,7 +1831,7 @@
         "country":  "USA",
         "abv":  8.1,
         "volumeMl":  375,
-        "priceSek":  179.9,
+        "priceSek":  180,
         "releaseDate":  "2025-10-28",
         "tags":  [
 
@@ -1671,7 +1847,7 @@
         "country":  "USA",
         "abv":  9.7,
         "volumeMl":  750,
-        "priceSek":  219,
+        "priceSek":  219.1,
         "releaseDate":  "2024-10-14",
         "tags":  [
 
@@ -1680,20 +1856,20 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8857301/"
     },
     {
-        "id":  "8893401",
-        "name":  "The Bruery Terreux Myrtillheim",
+        "id":  "8899301",
+        "name":  "The Bruery Terreux BoysenBBLs",
         "producer":  "The Bruery",
         "style":  "Övrig syrlig öl",
         "country":  "USA",
-        "abv":  6.2,
+        "abv":  16.3,
         "volumeMl":  750,
-        "priceSek":  298.9,
-        "releaseDate":  "2025-11-04",
+        "priceSek":  359.9,
+        "releaseDate":  "2026-03-04",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8893401/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8899301/"
     },
     {
         "id":  "8830201",
@@ -1703,7 +1879,7 @@
         "country":  "USA",
         "abv":  6.3,
         "volumeMl":  750,
-        "priceSek":  199.9,
+        "priceSek":  200.1,
         "releaseDate":  "2024-10-07",
         "tags":  [
 
@@ -1719,7 +1895,7 @@
         "country":  "USA",
         "abv":  5.5,
         "volumeMl":  750,
-        "priceSek":  189,
+        "priceSek":  189.2,
         "releaseDate":  "2024-10-07",
         "tags":  [
 
@@ -1735,7 +1911,7 @@
         "country":  "USA",
         "abv":  8.4,
         "volumeMl":  750,
-        "priceSek":  199,
+        "priceSek":  199.2,
         "releaseDate":  "2024-09-16",
         "tags":  [
 
@@ -1751,29 +1927,13 @@
         "country":  "USA",
         "abv":  15.9,
         "volumeMl":  750,
-        "priceSek":  429.9,
+        "priceSek":  430.3,
         "releaseDate":  "2025-11-19",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8864301/"
-    },
-    {
-        "id":  "8869401",
-        "name":  "The Bruery Tranquil Moonlight",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  21.5,
-        "volumeMl":  750,
-        "priceSek":  481.9,
-        "releaseDate":  "2025-11-10",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8869401/"
     },
     {
         "id":  "8872403",
@@ -1783,7 +1943,7 @@
         "country":  "USA",
         "abv":  14.7,
         "volumeMl":  375,
-        "priceSek":  329.9,
+        "priceSek":  330.2,
         "releaseDate":  "2025-10-28",
         "tags":  [
 
@@ -1799,7 +1959,7 @@
         "country":  "USA",
         "abv":  6.8,
         "volumeMl":  473,
-        "priceSek":  119.9,
+        "priceSek":  120,
         "releaseDate":  "2025-11-18",
         "tags":  [
 
@@ -1815,7 +1975,7 @@
         "country":  "USA",
         "abv":  10.5,
         "volumeMl":  500,
-        "priceSek":  499.9,
+        "priceSek":  500.4,
         "releaseDate":  "2025-12-09",
         "tags":  [
 
@@ -1831,7 +1991,7 @@
         "country":  "USA",
         "abv":  6.5,
         "volumeMl":  1892,
-        "priceSek":  366.8,
+        "priceSek":  367.2,
         "releaseDate":  "2025-11-11",
         "tags":  [
 
@@ -1847,7 +2007,7 @@
         "country":  "USA",
         "abv":  8.8,
         "volumeMl":  1892,
-        "priceSek":  400.6,
+        "priceSek":  404.8,
         "releaseDate":  "2025-06-04",
         "tags":  [
 
@@ -1863,7 +2023,7 @@
         "country":  "USA",
         "abv":  7,
         "volumeMl":  1892,
-        "priceSek":  362,
+        "priceSek":  366,
         "releaseDate":  "2025-06-03",
         "tags":  [
 
