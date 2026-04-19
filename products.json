@@ -160,22 +160,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8865034/"
     },
     {
-        "id":  "8881835",
-        "name":  "Belleflower Brewing Heart Trail",
-        "producer":  "Belleflower Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  8,
-        "volumeMl":  473,
-        "priceSek":  121,
-        "releaseDate":  "2026-04-14",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8881835/"
-    },
-    {
         "id":  "8893734",
         "name":  "Belleflower Brewing Lush Orchestration",
         "producer":  "Belleflower Brewing",
@@ -206,6 +190,38 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8881234/"
+    },
+    {
+        "id":  "8813634",
+        "name":  "Belleflower Brewing Pollen",
+        "producer":  "Belleflower Brewing",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  7,
+        "volumeMl":  473,
+        "priceSek":  126.9,
+        "releaseDate":  "2026-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8813634/"
+    },
+    {
+        "id":  "8869634",
+        "name":  "Belleflower Brewing Scrugsy",
+        "producer":  "Belleflower Brewing",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  7.1,
+        "volumeMl":  473,
+        "priceSek":  119.2,
+        "releaseDate":  "2026-04-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8869634/"
     },
     {
         "id":  "8800901",
@@ -400,6 +416,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8823709/"
     },
     {
+        "id":  "8818001",
+        "name":  "Bellwoods Brewery Motley Cru",
+        "producer":  "Bellwoods Brewery",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  6.5,
+        "volumeMl":  500,
+        "priceSek":  189,
+        "releaseDate":  "2026-04-21",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8818001/"
+    },
+    {
         "id":  "8829534",
         "name":  "Bellwoods Brewery Omertà",
         "producer":  "Bellwoods Brewery",
@@ -510,6 +542,38 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-8868101/"
+    },
+    {
+        "id":  "1083434",
+        "name":  "Bissell Brothers Brewing Company Here\u0027s To",
+        "producer":  "Bissell Brothers Brewing Company",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  7.8,
+        "volumeMl":  473,
+        "priceSek":  97.7,
+        "releaseDate":  "2026-05-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-1083434/"
+    },
+    {
+        "id":  "1042034",
+        "name":  "Bissell Brothers Brewing Company Reciproca",
+        "producer":  "Bissell Brothers Brewing Company",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "USA",
+        "abv":  7.3,
+        "volumeMl":  473,
+        "priceSek":  84.6,
+        "releaseDate":  "2026-05-08",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-1042034/"
     },
     {
         "id":  "8821101",
@@ -718,22 +782,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/district-96-beer-factory-8810134/"
-    },
-    {
-        "id":  "8804234",
-        "name":  "Great Notion Brewing / Humble Sea Brewing Co Slurricane",
-        "producer":  "Great Notion",
-        "style":  "Imperial/Dubbel IPA",
-        "country":  "USA",
-        "abv":  10,
-        "volumeMl":  473,
-        "priceSek":  145.9,
-        "releaseDate":  "2026-03-10",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-humble-sea-brewing-co-8804234/"
     },
     {
         "id":  "8830534",
@@ -1312,6 +1360,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8858001/"
     },
     {
+        "id":  "8876401",
+        "name":  "The Bruery Black Tuesday Blender\u0027s Choice",
+        "producer":  "The Bruery",
+        "style":  "Imperial/Dubbel IPA",
+        "country":  "USA",
+        "abv":  21.1,
+        "volumeMl":  750,
+        "priceSek":  599,
+        "releaseDate":  "2026-04-22",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8876401/"
+    },
+    {
         "id":  "8808603",
         "name":  "The Bruery Black Tuesday Harlan",
         "producer":  "The Bruery",
@@ -1342,6 +1406,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8844103/"
+    },
+    {
+        "id":  "8851801",
+        "name":  "The Bruery Castle Magic",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  13.1,
+        "volumeMl":  750,
+        "priceSek":  359,
+        "releaseDate":  "2026-04-21",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8851801/"
     },
     {
         "id":  "8889503",
@@ -1392,6 +1472,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8888503/"
     },
     {
+        "id":  "8894501",
+        "name":  "The Bruery Grey Monday",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  19.9,
+        "volumeMl":  750,
+        "priceSek":  599,
+        "releaseDate":  "2026-04-21",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8894501/"
+    },
+    {
         "id":  "8896103",
         "name":  "The Bruery Hoarders Cuvée",
         "producer":  "The Bruery",
@@ -1406,22 +1502,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8896103/"
-    },
-    {
-        "id":  "8863603",
-        "name":  "The Bruery Honey \u0026 Dunn Apis Grand Cru",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  15.9,
-        "volumeMl":  375,
-        "priceSek":  289.5,
-        "releaseDate":  "2026-02-25",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8863603/"
     },
     {
         "id":  "8849802",
@@ -1632,6 +1712,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-drowned-lands-brewery-mixpack-1-8898209/"
     },
     {
+        "id":  "8890601",
+        "name":  "The Drowned Lands Brewery Double Barrel Imperial Stout | Volume 6",
+        "producer":  "The Drowned Lands Brewery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  10.5,
+        "volumeMl":  500,
+        "priceSek":  489,
+        "releaseDate":  "2026-04-22",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-drowned-lands-brewery-8890601/"
+    },
+    {
         "id":  "8831509",
         "name":  "Tilted Barn Brewery - Mixpack #1 4-pack",
         "producer":  "Tilted Barn Brewery",
@@ -1646,21 +1742,5 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-mixpack-1-8831509/"
-    },
-    {
-        "id":  "8831434",
-        "name":  "Tilted Barn Brewery Holly",
-        "producer":  "Tilted Barn Brewery",
-        "style":  "Mörk stark belgisk ale",
-        "country":  "USA",
-        "abv":  9,
-        "volumeMl":  473,
-        "priceSek":  130.9,
-        "releaseDate":  "2026-02-11",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/tilted-barn-brewery-8831434/"
     }
 ]
