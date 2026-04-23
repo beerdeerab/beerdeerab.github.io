@@ -192,22 +192,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8881234/"
     },
     {
-        "id":  "8813634",
-        "name":  "Belleflower Brewing Pollen",
-        "producer":  "Belleflower Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  7,
-        "volumeMl":  473,
-        "priceSek":  126.9,
-        "releaseDate":  "2026-04-08",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8813634/"
-    },
-    {
         "id":  "8869634",
         "name":  "Belleflower Brewing Scrugsy",
         "producer":  "Belleflower Brewing",
@@ -560,6 +544,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-1083434/"
     },
     {
+        "id":  "8895701",
+        "name":  "Bissell Brothers Brewing Company Mirroring Dimensions",
+        "producer":  "Bissell Brothers Brewing Company",
+        "style":  "Blandning av olika öltyper",
+        "country":  "USA",
+        "abv":  14.3,
+        "volumeMl":  500,
+        "priceSek":  349,
+        "releaseDate":  "2026-04-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-8895701/"
+    },
+    {
         "id":  "1042034",
         "name":  "Bissell Brothers Brewing Company Reciproca",
         "producer":  "Bissell Brothers Brewing Company",
@@ -574,22 +574,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-1042034/"
-    },
-    {
-        "id":  "8821101",
-        "name":  "Boerenerf 1871 Oude Geuze",
-        "producer":  "Boerenerf",
-        "style":  "Gueuze",
-        "country":  "Belgien",
-        "abv":  6.7,
-        "volumeMl":  750,
-        "priceSek":  231.1,
-        "releaseDate":  "2025-08-26",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8821101/"
     },
     {
         "id":  "8870301",
@@ -718,22 +702,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8874635/"
-    },
-    {
-        "id":  "8898734",
-        "name":  "Cascade Brewing Staying Hoptimistic",
-        "producer":  "Cascade Brewing",
-        "style":  "Övrig syrlig öl",
-        "country":  "USA",
-        "abv":  5.8,
-        "volumeMl":  355,
-        "priceSek":  101.9,
-        "releaseDate":  "2026-04-15",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/cascade-brewing-8898734/"
     },
     {
         "id":  "8876634",
@@ -1534,6 +1502,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8856601/"
+    },
+    {
+        "id":  "8836601",
+        "name":  "The Bruery Rue Sans",
+        "producer":  "The Bruery",
+        "style":  "Övrig syrlig öl",
+        "country":  "USA",
+        "abv":  10.3,
+        "volumeMl":  750,
+        "priceSek":  299,
+        "releaseDate":  "2026-04-28",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8836601/"
     },
     {
         "id":  "8869703",
