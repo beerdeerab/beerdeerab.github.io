@@ -400,22 +400,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8823709/"
     },
     {
-        "id":  "8818001",
-        "name":  "Bellwoods Brewery Motley Cru",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  6.5,
-        "volumeMl":  500,
-        "priceSek":  189,
-        "releaseDate":  "2026-04-21",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8818001/"
-    },
-    {
         "id":  "8829534",
         "name":  "Bellwoods Brewery Omertà",
         "producer":  "Bellwoods Brewery",
@@ -622,6 +606,102 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8863901/"
+    },
+    {
+        "id":  "8892003",
+        "name":  "Bevog Brewery Aline 2025",
+        "producer":  "Brauhaus Bevog",
+        "style":  "Imperial porter och stout",
+        "country":  "Österrike",
+        "abv":  12.7,
+        "volumeMl":  375,
+        "priceSek":  229,
+        "releaseDate":  "2026-05-05",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bevog-brewery-8892003/"
+    },
+    {
+        "id":  "8885632",
+        "name":  "Bevog Brewery Extinction is forever!: Snowy Owl",
+        "producer":  "Brauhaus Bevog",
+        "style":  "New England IPA/Hazy IPA",
+        "country":  "Österrike",
+        "abv":  6.5,
+        "volumeMl":  500,
+        "priceSek":  126.9,
+        "releaseDate":  "2026-05-06",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bevog-brewery-8885632/"
+    },
+    {
+        "id":  "8894203",
+        "name":  "Bevog Brewery Hagger 1225",
+        "producer":  "Brauhaus Bevog",
+        "style":  "Barley wine",
+        "country":  "Österrike",
+        "abv":  12.4,
+        "volumeMl":  375,
+        "priceSek":  229,
+        "releaseDate":  "2026-05-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bevog-brewery-8894203/"
+    },
+    {
+        "id":  "8852902",
+        "name":  "Brauhaus Bevog Eira",
+        "producer":  "Brauhaus Bevog",
+        "style":  "Imperial porter och stout",
+        "country":  "Österrike",
+        "abv":  12.5,
+        "volumeMl":  375,
+        "priceSek":  229,
+        "releaseDate":  "2026-05-06",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8852902/"
+    },
+    {
+        "id":  "8826132",
+        "name":  "Brauhaus Bevog Extinction is forever!",
+        "producer":  "Brauhaus Bevog",
+        "style":  "India pale ale (IPA)",
+        "country":  "Österrike",
+        "abv":  6.9,
+        "volumeMl":  500,
+        "priceSek":  118.9,
+        "releaseDate":  "2026-05-12",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8826132/"
+    },
+    {
+        "id":  "8806132",
+        "name":  "Brauhaus Bevog Extinction Is Forever! Polar Bear",
+        "producer":  "Brauhaus Bevog",
+        "style":  "India pale ale (IPA)",
+        "country":  "Österrike",
+        "abv":  7,
+        "volumeMl":  500,
+        "priceSek":  126.9,
+        "releaseDate":  "2026-05-06",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/brauhaus-bevog-8806132/"
     },
     {
         "id":  "8859209",
@@ -1392,22 +1472,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8851801/"
     },
     {
-        "id":  "8889503",
-        "name":  "The Bruery Coffee Is Life",
-        "producer":  "The Bruery",
-        "style":  "Barley wine",
-        "country":  "USA",
-        "abv":  14.3,
-        "volumeMl":  375,
-        "priceSek":  279.3,
-        "releaseDate":  "2026-02-25",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8889503/"
-    },
-    {
         "id":  "8867403",
         "name":  "The Bruery Crush the Pint",
         "producer":  "The Bruery",
@@ -1422,22 +1486,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8867403/"
-    },
-    {
-        "id":  "8888503",
-        "name":  "The Bruery Double Double Mash",
-        "producer":  "The Bruery",
-        "style":  "Barley wine",
-        "country":  "USA",
-        "abv":  15.7,
-        "volumeMl":  375,
-        "priceSek":  269,
-        "releaseDate":  "2026-04-07",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8888503/"
     },
     {
         "id":  "8894501",
@@ -1518,6 +1566,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8836601/"
+    },
+    {
+        "id":  "8881503",
+        "name":  "The Bruery So Happens It\u0027s Tuesday",
+        "producer":  "The Bruery",
+        "style":  "Imperial porter och stout",
+        "country":  "USA",
+        "abv":  13.7,
+        "volumeMl":  375,
+        "priceSek":  229,
+        "releaseDate":  "2026-05-13",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8881503/"
     },
     {
         "id":  "8869703",
