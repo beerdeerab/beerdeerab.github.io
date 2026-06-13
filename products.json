@@ -128,22 +128,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8813234/"
     },
     {
-        "id":  "8865734",
-        "name":  "Belleflower Brewing Crystal Cover",
-        "producer":  "Belleflower Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  7,
-        "volumeMl":  473,
-        "priceSek":  117.9,
-        "releaseDate":  "2026-04-08",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8865734/"
-    },
-    {
         "id":  "8885534",
         "name":  "Belleflower Brewing DDH Finch And Thistle",
         "producer":  "Belleflower Brewing",
@@ -174,54 +158,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8865034/"
-    },
-    {
-        "id":  "8893734",
-        "name":  "Belleflower Brewing Lush Orchestration",
-        "producer":  "Belleflower Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  7.1,
-        "volumeMl":  473,
-        "priceSek":  119.2,
-        "releaseDate":  "2026-04-08",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8893734/"
-    },
-    {
-        "id":  "8881234",
-        "name":  "Belleflower Brewing Magpie",
-        "producer":  "Belleflower Brewing",
-        "style":  "Amerikansk pale ale (APA)",
-        "country":  "USA",
-        "abv":  5.5,
-        "volumeMl":  473,
-        "priceSek":  100,
-        "releaseDate":  "2026-04-08",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8881234/"
-    },
-    {
-        "id":  "8869634",
-        "name":  "Belleflower Brewing Scrugsy",
-        "producer":  "Belleflower Brewing",
-        "style":  "New England IPA/Hazy IPA",
-        "country":  "USA",
-        "abv":  7.1,
-        "volumeMl":  473,
-        "priceSek":  119.2,
-        "releaseDate":  "2026-04-08",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/belleflower-brewing-8869634/"
     },
     {
         "id":  "8800901",
@@ -288,22 +224,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-5452702/"
     },
     {
-        "id":  "8852201",
-        "name":  "Bellwoods Brewery Intermodal",
-        "producer":  "Bellwoods Brewery",
-        "style":  "Övrig syrlig öl",
-        "country":  "Kanada",
-        "abv":  6.5,
-        "volumeMl":  500,
-        "priceSek":  160.3,
-        "releaseDate":  "2024-07-29",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
-    },
-    {
         "id":  "8894001",
         "name":  "Bellwoods Brewery Intermodal",
         "producer":  "Bellwoods Brewery",
@@ -318,6 +238,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8894001/"
+    },
+    {
+        "id":  "8852201",
+        "name":  "Bellwoods Brewery Intermodal",
+        "producer":  "Bellwoods Brewery",
+        "style":  "Övrig syrlig öl",
+        "country":  "Kanada",
+        "abv":  6.5,
+        "volumeMl":  500,
+        "priceSek":  160.3,
+        "releaseDate":  "2024-07-29",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bellwoods-brewery-8852201/"
     },
     {
         "id":  "8810001",
@@ -478,22 +414,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/bissell-brothers-brewing-company-8895701/"
-    },
-    {
-        "id":  "8870301",
-        "name":  "Boerenerf Mus\u0027iek",
-        "producer":  "Boerenerf",
-        "style":  "Frukt- och bärlambic",
-        "country":  "Belgien",
-        "abv":  6.9,
-        "volumeMl":  750,
-        "priceSek":  297.3,
-        "releaseDate":  "2025-09-09",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/boerenerf-8870301/"
     },
     {
         "id":  "8848103",
@@ -800,22 +720,6 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8830534/"
     },
     {
-        "id":  "8824834",
-        "name":  "Great Notion Brewing Jumbo",
-        "producer":  "Great Notion Brewing",
-        "style":  "Söt porter och stout",
-        "country":  "USA",
-        "abv":  5.8,
-        "volumeMl":  473,
-        "priceSek":  121,
-        "releaseDate":  "2026-03-11",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/great-notion-brewing-8824834/"
-    },
-    {
         "id":  "8831634",
         "name":  "Great Notion Brewing The Soughten",
         "producer":  "Great Notion Brewing",
@@ -848,6 +752,22 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8850601/"
     },
     {
+        "id":  "8889301",
+        "name":  "Kemker Kultuur Aoltbeer Hauszwetschge",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  6,
+        "volumeMl":  750,
+        "priceSek":  289,
+        "releaseDate":  "2026-06-17",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8889301/"
+    },
+    {
         "id":  "8883101",
         "name":  "Kemker Kultuur C.B.D. Cider Beer Drink",
         "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
@@ -878,6 +798,22 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8856301/"
+    },
+    {
+        "id":  "8811701",
+        "name":  "Kemker Kultuur Ophelia",
+        "producer":  "Kemker Kultuur (Brauerei J. Kemker)",
+        "style":  "Övrig syrlig öl",
+        "country":  "Tyskland",
+        "abv":  6,
+        "volumeMl":  750,
+        "priceSek":  259,
+        "releaseDate":  "2026-06-16",
+        "tags":  [
+
+                 ],
+        "isBestallningssortiment":  true,
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/kemker-kultuur-8811701/"
     },
     {
         "id":  "8813401",
@@ -1006,22 +942,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-8808734/"
-    },
-    {
-        "id":  "8820834",
-        "name":  "Neon Raptor Brewing Co. Arpus Brewing Co. Apocalypse",
-        "producer":  "Neon Raptor",
-        "style":  "Övrig syrlig öl",
-        "country":  "Storbritannien",
-        "abv":  8,
-        "volumeMl":  440,
-        "priceSek":  145.1,
-        "releaseDate":  "2026-03-04",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/neon-raptor-brewing-co-arpus-brewing-co-8820834/"
     },
     {
         "id":  "8833634",
@@ -1296,20 +1216,20 @@
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8858001/"
     },
     {
-        "id":  "8876401",
-        "name":  "The Bruery Black Tuesday Blender\u0027s Choice",
+        "id":  "8838401",
+        "name":  "The Bruery Black Tuesday Harlan",
         "producer":  "The Bruery",
-        "style":  "Imperial/Dubbel IPA",
+        "style":  "Imperial porter och stout",
         "country":  "USA",
-        "abv":  21.1,
+        "abv":  18,
         "volumeMl":  750,
-        "priceSek":  599,
-        "releaseDate":  "2026-04-22",
+        "priceSek":  579,
+        "releaseDate":  "2026-06-03",
         "tags":  [
 
                  ],
         "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8876401/"
+        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8838401/"
     },
     {
         "id":  "8808603",
@@ -1326,22 +1246,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8808603/"
-    },
-    {
-        "id":  "8838401",
-        "name":  "The Bruery Black Tuesday Harlan",
-        "producer":  "The Bruery",
-        "style":  "Imperial porter och stout",
-        "country":  "USA",
-        "abv":  18,
-        "volumeMl":  750,
-        "priceSek":  579,
-        "releaseDate":  "2026-06-03",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8838401/"
     },
     {
         "id":  "8844103",
@@ -1582,22 +1486,6 @@
                  ],
         "isBestallningssortiment":  true,
         "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-terreux-8832801/"
-    },
-    {
-        "id":  "8869201",
-        "name":  "The Bruery Terreux -Train To Beersel",
-        "producer":  "The Bruery",
-        "style":  "Övrig syrlig öl",
-        "country":  "USA",
-        "abv":  8.4,
-        "volumeMl":  750,
-        "priceSek":  200,
-        "releaseDate":  "2024-09-16",
-        "tags":  [
-
-                 ],
-        "isBestallningssortiment":  true,
-        "systembolagetUrl":  "https://www.systembolaget.se/produkt/ol/the-bruery-8869201/"
     },
     {
         "id":  "8867603",
